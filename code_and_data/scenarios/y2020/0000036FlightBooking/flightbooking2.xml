@@ -1,0 +1,27 @@
+<utility_space type="any" number_of_issues="3">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="price">
+    <item index="1" value="150000yen" evaluation="1.0" />
+    <item index="2" value="200000yen" evaluation="0.6552199696593575" />
+    <item index="3" value="250000yen" evaluation="0.3104399393187146" />
+    <item index="4" value="300000yen" evaluation="-0.034340091021928004" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="departure airport">
+    <item index="1" value="CentAir" evaluation="0.08012687905116536" />
+    <item index="2" value="Narita" evaluation="0.5379947593435388" />
+    <item index="3" value="Kansai" evaluation="1.0" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="departure date">
+    <item index="1" value="2 sept." evaluation="1.0" />
+    <item index="2" value="3 sept." evaluation="0.5407529995862641" />
+    <item index="3" value="4 sept." evaluation="0.08012687905116536" />
+</issue>
+<weight index="1" value="0.7">
+</weight>
+<weight index="2" value="0.15">
+</weight>
+<weight index="3" value="0.15">
+</weight>
+</objective>
+<reservation value="0.4484209074610398" />
+</utility_space>

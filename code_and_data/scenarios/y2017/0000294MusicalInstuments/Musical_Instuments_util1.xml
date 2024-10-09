@@ -1,0 +1,37 @@
+<utility_space type="any" number_of_issues="3">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Guitar">
+    <item index="1" value="Ibanez" evaluation="0.20609830469832174" />
+    <item index="2" value="Epiphone" evaluation="0.06800360443952086" />
+    <item index="3" value="Gibson" evaluation="0.551335055345324" />
+    <item index="4" value="Gretsch" evaluation="0.1370509545689213" />
+    <item index="5" value="Yamaha" evaluation="0.34419300495712263" />
+    <item index="6" value="Fender" evaluation="0.06800360443952086" />
+    <item index="7" value="Hohner" evaluation="-0.07009109581928002" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Piano">
+    <item index="1" value="Casio" evaluation="1.2418085566393284" />
+    <item index="2" value="Yamaha" evaluation="0.1370509545689213" />
+    <item index="3" value="Nord" evaluation="-0.0010437456898795827" />
+    <item index="4" value="Bluthner" evaluation="0.8965718059923262" />
+    <item index="5" value="Baldwin" evaluation="0.34419300495712263" />
+    <item index="6" value="Ritmuller" evaluation="-0.0010437456898795827" />
+    <item index="7" value="Seiler" evaluation="0.6894297556041249" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Amplifier">
+    <item index="1" value="Laney" evaluation="1.2418085566393284" />
+    <item index="2" value="Blackstar" evaluation="0.7584771057335253" />
+    <item index="3" value="Ashton" evaluation="0.06800360443952086" />
+    <item index="4" value="Line 6" evaluation="0.20609830469832174" />
+    <item index="5" value="Fender" evaluation="0.551335055345324" />
+    <item index="6" value="Yamaha" evaluation="0.2751456548277222" />
+</issue>
+<weight index="1" value="0.35020685976530475">
+</weight>
+<weight index="2" value="0.28446990470806854">
+</weight>
+<weight index="3" value="0.36532323552662677">
+</weight>
+</objective>
+<reservation value="-0.13913844594868047" />
+</utility_space>

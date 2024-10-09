@@ -1,0 +1,52 @@
+<utility_space type="any" number_of_issues="6">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Food">
+    <item index="1" value="Chips and Nuts" evaluation="0.9297546595284508" />
+    <item index="2" value="Finger-Food" evaluation="0.5032082717414985" />
+    <item index="3" value="Handmade Food" evaluation="0.24728043906932715" />
+    <item index="4" value="Catering" evaluation="0.07666188395454644" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Drinks">
+    <item index="1" value="Non-Alcoholic" evaluation="0.9297546595284508" />
+    <item index="2" value="Beer Only" evaluation="-0.43519378138979625" />
+    <item index="3" value="Handmade Cocktails" evaluation="0.5032082717414985" />
+    <item index="4" value="Catering" evaluation="-0.3498845038324058" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Location">
+    <item index="1" value="Party Tent" evaluation="1.356301047315403" />
+    <item index="2" value="Your Dorm" evaluation="0.9297546595284508" />
+    <item index="3" value="Party Room" evaluation="0.07666188395454644" />
+    <item index="4" value="Ballroom" evaluation="1.1856824922006222" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="Invitations">
+    <item index="1" value="Plain" evaluation="0.5032082717414985" />
+    <item index="2" value="Photo" evaluation="0.07666188395454644" />
+    <item index="3" value="Custom, Handmade" evaluation="-0.09395667116023448" />
+    <item index="4" value="Custom, Printed" evaluation="0.24728043906932715" />
+</issue>
+<issue index="5" etype="discrete" type="discrete" vtype="discrete" name="Music">
+    <item index="1" value="MP3" evaluation="0.7591361044136699" />
+    <item index="2" value="DJ" evaluation="0.5032082717414985" />
+    <item index="3" value="Band" evaluation="0.9297546595284508" />
+</issue>
+<issue index="6" etype="discrete" type="discrete" vtype="discrete" name="Cleanup">
+    <item index="1" value="Water and Soap" evaluation="-0.3498845038324058" />
+    <item index="2" value="Specialized Materials" evaluation="0.07666188395454644" />
+    <item index="3" value="Special Equiment" evaluation="0.5032082717414985" />
+    <item index="4" value="Hired Help" evaluation="0.9297546595284508" />
+</issue>
+<weight index="1" value="0.2640679963502323">
+</weight>
+<weight index="2" value="0.18976220855357126">
+</weight>
+<weight index="3" value="0.2227006582881749">
+</weight>
+<weight index="4" value="0.05801671655793909">
+</weight>
+<weight index="5" value="0.16832340046936659">
+</weight>
+<weight index="6" value="0.09712901978071599">
+</weight>
+</objective>
+<reservation value="-0.776430891619358" />
+</utility_space>

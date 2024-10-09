@@ -1,0 +1,53 @@
+<utility_space type="any" number_of_issues="6">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Maker">
+    <item index="1" value="Canon" evaluation="-0.03413306950284443" />
+    <item index="2" value="Nikon" evaluation="0.2874103388572842" />
+    <item index="3" value="Pentax" evaluation="2.414543655701212" />
+    <item index="4" value="Sony" evaluation="1.4251793222854316" />
+    <item index="5" value="Panasonic" evaluation="0.040069255503339105" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Body">
+    <item index="1" value="Full size" evaluation="0.08953747217412815" />
+    <item index="2" value="APS-C" evaluation="1.4993816472916153" />
+    <item index="3" value="Micro Four Thirds" evaluation="0.5347514222112294" />
+    <item index="4" value="compact" evaluation="-0.009398961167449914" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Lens">
+    <item index="1" value="High end model" evaluation="1.1778382389314865" />
+    <item index="2" value="Middle range model" evaluation="0.5594855305466239" />
+    <item index="3" value="Entry model" evaluation="-0.009398961167449914" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="Tripod">
+    <item index="1" value="GITZO" evaluation="0.18847390551570617" />
+    <item index="2" value="Manfrotto" evaluation="0.7326242888943855" />
+    <item index="3" value="Induro" evaluation="0.040069255503339105" />
+</issue>
+<issue index="5" etype="discrete" type="discrete" vtype="discrete" name="Bag">
+    <item index="1" value="Domke" evaluation="0.040069255503339105" />
+    <item index="2" value="Lowepro" evaluation="0.43581498886965125" />
+    <item index="3" value="Tamrac" evaluation="-0.009398961167449914" />
+    <item index="4" value="National Geographic" evaluation="0.08953747217412815" />
+    <item index="5" value="Artizan and Artist" evaluation="0.13900568884491715" />
+</issue>
+<issue index="6" etype="discrete" type="discrete" vtype="discrete" name="Accessory">
+    <item index="1" value="Electronic Flash" evaluation="0.11427158050952264" />
+    <item index="2" value="Battery Grip" evaluation="0.015335147167944601" />
+    <item index="3" value="Memory" evaluation="0.040069255503339105" />
+    <item index="4" value="Strap" evaluation="-0.03413306950284443" />
+</issue>
+<weight index="1" value="0.08">
+</weight>
+<weight index="2" value="0.09">
+</weight>
+<weight index="3" value="0.34">
+</weight>
+<weight index="4" value="0.26">
+</weight>
+<weight index="5" value="0.17">
+</weight>
+<weight index="6" value="0.06">
+</weight>
+</objective>
+<reservation value="1.734723475976807e-18" />
+</utility_space>

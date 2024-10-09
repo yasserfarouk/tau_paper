@@ -1,0 +1,58 @@
+<utility_space type="any" number_of_issues="4">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Electric Vehicle">
+    <item index="1" value="Tesla Model S P90D " evaluation="3.402220918430392" />
+    <item index="2" value="Honda Fit EV" evaluation="1.671368129844968" />
+    <item index="3" value="Nissan Leaf" evaluation="1.4677383900113887" />
+    <item index="4" value="Toyota RAV4 EV" evaluation="1.111386345302625" />
+    <item index="5" value="Mitsubishi i-MiEV" evaluation="3.504035788347182" />
+    <item index="6" value="Ford Focus Electric" evaluation="1.111386345302625" />
+    <item index="7" value="Fiat 500e" evaluation="4.064017572889525" />
+    <item index="8" value="Kia Soul EV" evaluation="1.2641086501778094" />
+    <item index="9" value="BMW i3" evaluation="1.3659235200945992" />
+    <item index="10" value="Chevrolet Spark EV" evaluation="2.384072219262496" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Battery Capacity">
+    <item index="1" value="20KW/KG" evaluation="0.042330211176333496" />
+    <item index="2" value="30KW/KG" evaluation="0.19505251605151808" />
+    <item index="3" value="60KW/KG" evaluation="0.3986822558850973" />
+    <item index="4" value="70KW/KG" evaluation="0.5514045607602818" />
+    <item index="5" value="100KW/KG" evaluation="0.805941735552256" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Charging Speed">
+    <item index="1" value="1" evaluation="-0.434926991558618" />
+    <item index="2" value="2" evaluation="-0.4336543056846581" />
+    <item index="3" value="3" evaluation="-0.4323816198106983" />
+    <item index="4" value="4" evaluation="-0.4311089339367384" />
+    <item index="5" value="5" evaluation="-0.42983624806277854" />
+    <item index="6" value="6" evaluation="-0.42856356218881864" />
+    <item index="7" value="7" evaluation="-0.4272908763148588" />
+    <item index="8" value="8" evaluation="-0.4260181904408989" />
+    <item index="9" value="9" evaluation="-0.42474550456693905" />
+    <item index="10" value="10" evaluation="-0.42347281869297915" />
+    <item index="11" value="11" evaluation="-0.4222001328190193" />
+    <item index="12" value="12" evaluation="-0.4209274469450594" />
+    <item index="13" value="13" evaluation="-0.41965476107109956" />
+    <item index="14" value="14" evaluation="-0.41838207519713966" />
+    <item index="15" value="15" evaluation="-0.4171093893231798" />
+    <item index="16" value="16" evaluation="-0.4158367034492199" />
+    <item index="17" value="17" evaluation="-0.41456401757526007" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="Weather Condition">
+    <item index="1" value="Sunny" evaluation="0.5514045607602818" />
+    <item index="2" value="Partly Sunny" evaluation="1.3150160851362043" />
+    <item index="3" value="Windy" evaluation="0.042330211176333496" />
+    <item index="4" value="Rainy" evaluation="-0.008577223782061286" />
+    <item index="5" value="Isolated T-Storms" evaluation="-0.3140218335324303" />
+</issue>
+<weight index="1" value="0.17829860676182976">
+</weight>
+<weight index="2" value="0.296367034259102">
+</weight>
+<weight index="3" value="0.3782920283134138">
+</weight>
+<weight index="4" value="0.14704233066565445">
+</weight>
+</objective>
+<reservation value="-0.46674413840761475" />
+</utility_space>

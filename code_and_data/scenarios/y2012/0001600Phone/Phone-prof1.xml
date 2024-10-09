@@ -1,0 +1,47 @@
+<utility_space type="any" number_of_issues="5">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Brand">
+    <item index="1" value="HP" evaluation="1.0" />
+    <item index="2" value="Motorola" evaluation="0.1111111111111111" />
+    <item index="3" value="Nokia" evaluation="0.0" />
+    <item index="4" value="Apple" evaluation="0.4444444444444445" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Color">
+    <item index="1" value="White" evaluation="0.0" />
+    <item index="2" value="Grey" evaluation="0.4444444444444445" />
+    <item index="3" value="Black" evaluation="0.2222222222222222" />
+    <item index="4" value="Silver" evaluation="0.2222222222222222" />
+    <item index="5" value="Red" evaluation="1.0" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Operating System">
+    <item index="1" value="Windows Mobile" evaluation="0.0" />
+    <item index="2" value="Android" evaluation="0.1111111111111111" />
+    <item index="3" value="Apple" evaluation="0.4444444444444445" />
+    <item index="4" value="BlackBerry" evaluation="1.0" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="Memory">
+    <item index="1" value="510M" evaluation="0.0" />
+    <item index="2" value="1G" evaluation="0.1111111111111111" />
+    <item index="3" value="2G" evaluation="1.0" />
+    <item index="4" value="4G" evaluation="0.4444444444444445" />
+</issue>
+<issue index="5" etype="discrete" type="discrete" vtype="discrete" name="Screen Resolution">
+    <item index="1" value="240*400" evaluation="0.0" />
+    <item index="2" value="480*800" evaluation="0.1111111111111111" />
+    <item index="3" value="600*1024" evaluation="0.4444444444444445" />
+    <item index="4" value="800*1280" evaluation="0.2222222222222222" />
+    <item index="5" value="1280*1280" evaluation="1.0" />
+</issue>
+<weight index="1" value="0.3">
+</weight>
+<weight index="2" value="0.2">
+</weight>
+<weight index="3" value="0.05">
+</weight>
+<weight index="4" value="0.15">
+</weight>
+<weight index="5" value="0.3">
+</weight>
+</objective>
+<reservation value="-0.05555555555555555" />
+</utility_space>

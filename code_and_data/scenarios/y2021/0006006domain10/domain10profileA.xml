@@ -1,0 +1,68 @@
+<utility_space type="any" number_of_issues="4">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="issueA">
+    <item index="1" value="valueA" evaluation="-0.20606929982660493" />
+    <item index="2" value="valueB" evaluation="1.0" />
+    <item index="3" value="valueC" evaluation="-0.13868521684799096" />
+    <item index="4" value="valueD" evaluation="0.1984391218823509" />
+    <item index="5" value="valueE" evaluation="0.40344630454000285" />
+    <item index="6" value="valueF" evaluation="-0.21352526512686765" />
+    <item index="7" value="valueG" evaluation="-0.2630277766246805" />
+    <item index="8" value="valueH" evaluation="0.05310515210646012" />
+    <item index="9" value="valueI" evaluation="-0.12736744387938698" />
+    <item index="10" value="valueJ" evaluation="-0.1482951276794407" />
+    <item index="11" value="valueK" evaluation="-0.20094571341514234" />
+    <item index="12" value="valueL" evaluation="0.04761195373994172" />
+    <item index="13" value="valueM" evaluation="-0.23925790434264627" />
+    <item index="14" value="valueN" evaluation="-0.2320440985991442" />
+    <item index="15" value="valueO" evaluation="-0.2335735273786853" />
+    <item index="16" value="valueP" evaluation="0.3830284303331295" />
+    <item index="17" value="valueQ" evaluation="-0.1922916955709057" />
+    <item index="18" value="valueR" evaluation="-0.2496197843240371" />
+    <item index="19" value="valueS" evaluation="-0.013272056925622652" />
+    <item index="20" value="valueT" evaluation="-0.19993883946861107" />
+    <item index="21" value="valueU" evaluation="-0.0345056264815846" />
+    <item index="22" value="valueV" evaluation="-0.10694956967251358" />
+    <item index="23" value="valueW" evaluation="0.2595015659055284" />
+    <item index="24" value="valueX" evaluation="-0.04328709672411625" />
+    <item index="25" value="valueY" evaluation="-0.22193712341434357" />
+    <item index="26" value="valueZ" evaluation="-0.09772201603594909" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="issueB">
+    <item index="1" value="valueA" evaluation="0.5354232629745683" />
+    <item index="2" value="valueB" evaluation="0.167213284300054" />
+    <item index="3" value="valueC" evaluation="0.7821073798747145" />
+    <item index="4" value="valueD" evaluation="0.4958492933039429" />
+    <item index="5" value="valueE" evaluation="1.0" />
+    <item index="6" value="valueF" evaluation="0.026059753188242066" />
+    <item index="7" value="valueG" evaluation="-0.10278187624826417" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="issueC">
+    <item index="1" value="valueA" evaluation="-0.10475738842183803" />
+    <item index="2" value="valueB" evaluation="1.0" />
+    <item index="3" value="valueC" evaluation="0.7700758734756581" />
+    <item index="4" value="valueD" evaluation="0.7521943019948569" />
+    <item index="5" value="valueE" evaluation="0.057209119331562044" />
+    <item index="6" value="valueF" evaluation="-0.24286480721439735" />
+    <item index="7" value="valueG" evaluation="0.640839141604437" />
+    <item index="8" value="valueH" evaluation="-0.2342107893701607" />
+    <item index="9" value="valueI" evaluation="0.14103456169024253" />
+    <item index="10" value="valueJ" evaluation="0.23605032461923192" />
+    <item index="11" value="valueK" evaluation="-0.11606241615061254" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="issueD">
+    <item index="1" value="valueA" evaluation="0.04418348422580383" />
+    <item index="2" value="valueB" evaluation="1.0" />
+    <item index="3" value="valueC" evaluation="0.5872071724018634" />
+</issue>
+<weight index="1" value="0.11135">
+</weight>
+<weight index="2" value="0.03854">
+</weight>
+<weight index="3" value="0.01502">
+</weight>
+<weight index="4" value="0.83509">
+</weight>
+</objective>
+<reservation value="-0.27452398295089764" />
+</utility_space>

@@ -1,0 +1,40 @@
+<utility_space type="any" number_of_issues="4">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Segmentation">
+    <item index="1" value="all to one(farmer)" evaluation="-0.05842214836732696" />
+    <item index="2" value="all to one(cons. comp.)" evaluation="1.0" />
+    <item index="3" value="all to one(municipality)" evaluation="-0.05842214836732696" />
+    <item index="4" value="all to two(farmer and mun.)" evaluation="-0.05842214836732696" />
+    <item index="5" value="all to two(farmer and cons. comp.)" evaluation="0.4707889258163366" />
+    <item index="6" value="all to two(mun. and cons. comp.)" evaluation="0.4707889258163366" />
+    <item index="7" value="33%,33%,33%" evaluation="0.2591044961428712" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Water Canal">
+    <item index="1" value="Big" evaluation="0.15326228130613848" />
+    <item index="2" value="Medium" evaluation="1.0" />
+    <item index="3" value="Small" evaluation="0.7883155703265349" />
+    <item index="4" value="None" evaluation="0.3649467109796039" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Park">
+    <item index="1" value="Big" evaluation="-0.05842214836732696" />
+    <item index="2" value="Medium" evaluation="0.2591044961428712" />
+    <item index="3" value="Small" evaluation="0.5766311406530693" />
+    <item index="4" value="None" evaluation="1.0" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="Functionality">
+    <item index="1" value="Farming" evaluation="-0.005501040948960598" />
+    <item index="2" value="Commercial" evaluation="1.0" />
+    <item index="3" value="Housing" evaluation="0.7883155703265349" />
+    <item index="4" value="Industrial" evaluation="0.682473355489802" />
+</issue>
+<weight index="1" value="0.39958327196727156">
+</weight>
+<weight index="2" value="0.20120406251952466">
+</weight>
+<weight index="3" value="0.10008095952393839">
+</weight>
+<weight index="4" value="0.2991317059892655">
+</weight>
+</objective>
+<reservation value="-0.05842214836732696" />
+</utility_space>

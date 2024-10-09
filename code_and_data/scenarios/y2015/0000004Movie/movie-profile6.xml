@@ -1,0 +1,17 @@
+<utility_space type="any" number_of_issues="2">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="location">
+    <item index="1" value="pathe" evaluation="0.0467200316310434" />
+    <item index="2" value="wolff" evaluation="1.1962241328503822" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="movie">
+    <item index="1" value="finding nemo" evaluation="-0.3124999999999999" />
+    <item index="2" value="the good, the bad and the ugly" evaluation="-0.3124999999999999" />
+</issue>
+<weight index="1" value="0.8699403498771756">
+</weight>
+<weight index="2" value="0.1300596501228244">
+</weight>
+</objective>
+<reservation value="-0.3843440063262086" />
+</utility_space>

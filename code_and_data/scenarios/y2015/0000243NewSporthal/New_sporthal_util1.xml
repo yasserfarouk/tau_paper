@@ -1,0 +1,40 @@
+<utility_space type="any" number_of_issues="5">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="grandstand">
+    <item index="1" value="no grandstand" evaluation="0.04613413804882449" />
+    <item index="2" value="retractible grandstand" evaluation="0.6372240899235382" />
+    <item index="3" value="normal grandstand" evaluation="1.2283140417982519" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Floor">
+    <item index="1" value="Wood" evaluation="0.4401941059653003" />
+    <item index="2" value="Lineleum" evaluation="0.6372240899235382" />
+    <item index="3" value="Soft mats" evaluation="-0.1508958459094134" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Sports bar">
+    <item index="1" value="No bar" evaluation="0.04613413804882449" />
+    <item index="2" value="Small bar" evaluation="0.6372240899235382" />
+    <item index="3" value="Big bar" evaluation="1.2283140417982519" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="Budget for aparatusses">
+    <item index="1" value="10,000" evaluation="0.24316412200706242" />
+    <item index="2" value="20,000" evaluation="0.04613413804882449" />
+    <item index="3" value="40,000" evaluation="-0.1508958459094134" />
+</issue>
+<issue index="5" etype="discrete" type="discrete" vtype="discrete" name="Amount of dressing rooms">
+    <item index="1" value="2" evaluation="0.04613413804882449" />
+    <item index="2" value="4" evaluation="0.6372240899235382" />
+    <item index="3" value="6" evaluation="1.031284057840014" />
+</issue>
+<weight index="1" value="0.21441083578714265">
+</weight>
+<weight index="2" value="0.14102977623023788">
+</weight>
+<weight index="3" value="0.2813426698286954">
+</weight>
+<weight index="4" value="0.09311802768270867">
+</weight>
+<weight index="5" value="0.2700986904712154">
+</weight>
+</objective>
+<reservation value="-0.15089584590941335" />
+</utility_space>

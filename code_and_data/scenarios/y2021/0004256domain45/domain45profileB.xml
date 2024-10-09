@@ -1,0 +1,66 @@
+<utility_space type="any" number_of_issues="3">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="issueA">
+    <item index="1" value="valueA" evaluation="0.29549308078141057" />
+    <item index="2" value="valueB" evaluation="0.17871931889686982" />
+    <item index="3" value="valueC" evaluation="0.13993706485842605" />
+    <item index="4" value="valueD" evaluation="0.41709194005801753" />
+    <item index="5" value="valueE" evaluation="0.3827825086020422" />
+    <item index="6" value="valueF" evaluation="0.5597632379451083" />
+    <item index="7" value="valueG" evaluation="0.21482214938352462" />
+    <item index="8" value="valueH" evaluation="1.0" />
+    <item index="9" value="valueI" evaluation="0.1652901761552342" />
+    <item index="10" value="valueJ" evaluation="0.19036573760205622" />
+    <item index="11" value="valueK" evaluation="0.7804367186725264" />
+    <item index="12" value="valueL" evaluation="0.5151951370338771" />
+    <item index="13" value="valueM" evaluation="0.22481394398302462" />
+    <item index="14" value="valueN" evaluation="0.14620328647157402" />
+    <item index="15" value="valueO" evaluation="0.5875288979379496" />
+    <item index="16" value="valueP" evaluation="0.010203859978380005" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="issueB">
+    <item index="1" value="valueA" evaluation="0.01981135478559152" />
+    <item index="2" value="valueB" evaluation="0.4665598633209265" />
+    <item index="3" value="valueC" evaluation="-0.009480829382173338" />
+    <item index="4" value="valueD" evaluation="0.11744485201532087" />
+    <item index="5" value="valueE" evaluation="0.779006269445675" />
+    <item index="6" value="valueF" evaluation="0.13859201558541645" />
+    <item index="7" value="valueG" evaluation="0.01636333164922562" />
+    <item index="8" value="valueH" evaluation="0.054793310878071634" />
+    <item index="9" value="valueI" evaluation="0.49008755060436443" />
+    <item index="10" value="valueJ" evaluation="0.09236929056849888" />
+    <item index="11" value="valueK" evaluation="0.8002922079407635" />
+    <item index="12" value="valueL" evaluation="0.46402988968836084" />
+    <item index="13" value="valueM" evaluation="1.0" />
+    <item index="14" value="valueN" evaluation="0.049242313878349424" />
+    <item index="15" value="valueO" evaluation="0.2113634512529285" />
+    <item index="16" value="valueP" evaluation="0.16682737532438804" />
+    <item index="17" value="valueQ" evaluation="0.25456515290268955" />
+    <item index="18" value="valueR" evaluation="0.08379727020162014" />
+    <item index="19" value="valueS" evaluation="0.5455868456073563" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="issueC">
+    <item index="1" value="valueA" evaluation="0.027294525740986265" />
+    <item index="2" value="valueB" evaluation="0.608120961808073" />
+    <item index="3" value="valueC" evaluation="0.7769032955823186" />
+    <item index="4" value="valueD" evaluation="0.5799816770171734" />
+    <item index="5" value="valueE" evaluation="-0.0001295344364874787" />
+    <item index="6" value="valueF" evaluation="-0.06073147668153161" />
+    <item index="7" value="valueG" evaluation="-0.04717423400913315" />
+    <item index="8" value="valueH" evaluation="0.1461072115235019" />
+    <item index="9" value="valueI" evaluation="0.612348259523246" />
+    <item index="10" value="valueJ" evaluation="1.0" />
+    <item index="11" value="valueK" evaluation="0.32658933897408515" />
+    <item index="12" value="valueL" evaluation="0.16442550162258518" />
+    <item index="13" value="valueM" evaluation="-0.03790833901728916" />
+    <item index="14" value="valueN" evaluation="0.379003560644539" />
+</issue>
+<weight index="1" value="0.70372">
+</weight>
+<weight index="2" value="0.21098">
+</weight>
+<weight index="3" value="0.0853">
+</weight>
+</objective>
+<reservation value="-0.0674994230235006" />
+</utility_space>

@@ -1,0 +1,47 @@
+<utility_space type="any" number_of_issues="5">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Vegetarian (yes/no)">
+    <item index="1" value="Vegetarian" evaluation="0.44978892242565965" />
+    <item index="2" value="Meat" evaluation="1.4374354950024124" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Where to eat">
+    <item index="1" value="Home(make it yourself)" evaluation="0.943612208714036" />
+    <item index="2" value="Home(take away)" evaluation="-0.04403436386271667" />
+    <item index="3" value="Cheap Restaurant" evaluation="0.44978892242565965" />
+    <item index="4" value="Fancy Restaurant" evaluation="0.20287727928147148" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Origin">
+    <item index="1" value="Dutch food" evaluation="-0.04403436386271667" />
+    <item index="2" value="Asian food" evaluation="-0.04403436386271667" />
+    <item index="3" value="Italian food" evaluation="0.943612208714036" />
+    <item index="4" value="French food" evaluation="0.20287727928147148" />
+    <item index="5" value="Greek food" evaluation="0.20287727928147148" />
+    <item index="6" value="Turkish food" evaluation="-0.04403436386271667" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="time">
+    <item index="1" value="18:00" evaluation="-0.04403436386271667" />
+    <item index="2" value="19:00" evaluation="0.44978892242565965" />
+    <item index="3" value="20:00" evaluation="0.6967005655698478" />
+    <item index="4" value="21:00" evaluation="0.943612208714036" />
+    <item index="5" value="22:00" evaluation="0.6967005655698478" />
+</issue>
+<issue index="5" etype="discrete" type="discrete" vtype="discrete" name="Spicyness">
+    <item index="1" value="not spicy at all" evaluation="0.44978892242565965" />
+    <item index="2" value="somewhat spicy" evaluation="0.943612208714036" />
+    <item index="3" value="pretty spicy" evaluation="0.44978892242565965" />
+    <item index="4" value="very spicy" evaluation="-0.04403436386271667" />
+    <item index="5" value="HOT" evaluation="-0.29094600700690476" />
+</issue>
+<weight index="1" value="0.11418617317498347">
+</weight>
+<weight index="2" value="0.17220430695214137">
+</weight>
+<weight index="3" value="0.40339553340514306">
+</weight>
+<weight index="4" value="0.26018221289100635">
+</weight>
+<weight index="5" value="0.050031773576725724">
+</weight>
+</objective>
+<reservation value="-0.29094600700690476" />
+</utility_space>

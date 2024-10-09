@@ -1,0 +1,29 @@
+<utility_space type="any" number_of_issues="3">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Genre">
+    <item index="1" value="RPG" evaluation="1.3036040194274094" />
+    <item index="2" value="Shooter" evaluation="0.5386491377155157" />
+    <item index="3" value="Platformer" evaluation="0.07967620868837952" />
+    <item index="4" value="Strategy" evaluation="0.9976220667426519" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Price">
+    <item index="1" value="5" evaluation="0.38565816137313697" />
+    <item index="2" value="10" evaluation="0.23266718503075823" />
+    <item index="3" value="30" evaluation="0.07967620868837952" />
+    <item index="4" value="60" evaluation="-0.07331476765399922" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Game Length">
+    <item index="1" value="1" evaluation="-0.07331476765399922" />
+    <item index="2" value="3" evaluation="0.23266718503075823" />
+    <item index="3" value="10" evaluation="1.3036040194274094" />
+    <item index="4" value="30" evaluation="0.6916401140578944" />
+</issue>
+<weight index="1" value="0.4792097508413044">
+</weight>
+<weight index="2" value="0.33074283931183573">
+</weight>
+<weight index="3" value="0.19004740984685983">
+</weight>
+</objective>
+<reservation value="-0.22630574399637793" />
+</utility_space>

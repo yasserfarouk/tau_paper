@@ -1,0 +1,49 @@
+<utility_space type="any" number_of_issues="5">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Study">
+    <item index="1" value="TI" evaluation="0.5786240174067436" />
+    <item index="2" value="TW" evaluation="0.4098358264943706" />
+    <item index="3" value="EE" evaluation="0.24104763558199765" />
+    <item index="4" value="TBM" evaluation="0.07225944466962458" />
+    <item index="5" value="WB" evaluation="-0.09652874624274843" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Faculty">
+    <item index="1" value="EWI" evaluation="-0.09652874624274843" />
+    <item index="2" value="3ME" evaluation="3.279235072004712" />
+    <item index="3" value="TPM" evaluation="-0.09652874624274843" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Job Prospect">
+    <item index="1" value="Manager" evaluation="0.24104763558199765" />
+    <item index="2" value="Developer" evaluation="-0.09652874624274843" />
+    <item index="3" value="Jobless" evaluation="0.4098358264943706" />
+    <item index="4" value="Engineer" evaluation="0.07225944466962458" />
+    <item index="5" value="CEO" evaluation="0.24104763558199765" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="Housing">
+    <item index="1" value="House" evaluation="0.4098358264943706" />
+    <item index="2" value="Under the bridge" evaluation="0.24104763558199765" />
+    <item index="3" value="Single Room" evaluation="0.4098358264943706" />
+    <item index="4" value="Studio" evaluation="0.9162003992314898" />
+    <item index="5" value="Parents" evaluation="0.7474122083191168" />
+    <item index="6" value="Cave" evaluation="0.07225944466962458" />
+</issue>
+<issue index="5" etype="discrete" type="discrete" vtype="discrete" name="Partime Job">
+    <item index="1" value="None" evaluation="0.5786240174067436" />
+    <item index="2" value="Supermarket" evaluation="0.07225944466962458" />
+    <item index="3" value="Catering" evaluation="0.24104763558199765" />
+    <item index="4" value="Fastfood Restaurant" evaluation="0.07225944466962458" />
+    <item index="5" value="Restaurant" evaluation="0.4098358264943706" />
+</issue>
+<weight index="1" value="0.09454190935010062">
+</weight>
+<weight index="2" value="0.13669827951536587">
+</weight>
+<weight index="3" value="0.196867039958014">
+</weight>
+<weight index="4" value="0.2530862166734097">
+</weight>
+<weight index="5" value="0.31880655450310974">
+</weight>
+</objective>
+<reservation value="-0.26531693715512145" />
+</utility_space>

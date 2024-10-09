@@ -1,0 +1,66 @@
+<utility_space type="any" number_of_issues="5">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="issueA">
+    <item index="1" value="valueA" evaluation="0.47834" />
+    <item index="2" value="valueB" evaluation="1.0" />
+    <item index="3" value="valueC" evaluation="0.15024" />
+    <item index="4" value="valueD" evaluation="0.33071" />
+    <item index="5" value="valueE" evaluation="0.56111" />
+    <item index="6" value="valueF" evaluation="0.70915" />
+    <item index="7" value="valueG" evaluation="0.68349" />
+    <item index="8" value="valueH" evaluation="0.02467" />
+    <item index="9" value="valueI" evaluation="0.0" />
+    <item index="10" value="valueJ" evaluation="0.804" />
+    <item index="11" value="valueK" evaluation="0.13129" />
+    <item index="12" value="valueL" evaluation="0.99591" />
+    <item index="13" value="valueM" evaluation="0.57377" />
+    <item index="14" value="valueN" evaluation="0.35555" />
+    <item index="15" value="valueO" evaluation="0.62197" />
+    <item index="16" value="valueP" evaluation="0.25138" />
+    <item index="17" value="valueQ" evaluation="0.29199" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="issueB">
+    <item index="1" value="valueA" evaluation="0.0" />
+    <item index="2" value="valueB" evaluation="0.43182" />
+    <item index="3" value="valueC" evaluation="0.12664" />
+    <item index="4" value="valueD" evaluation="0.33854" />
+    <item index="5" value="valueE" evaluation="0.07502" />
+    <item index="6" value="valueF" evaluation="0.56468" />
+    <item index="7" value="valueG" evaluation="0.23899" />
+    <item index="8" value="valueH" evaluation="0.47918" />
+    <item index="9" value="valueI" evaluation="0.21266" />
+    <item index="10" value="valueJ" evaluation="1.0" />
+    <item index="11" value="valueK" evaluation="0.15579" />
+    <item index="12" value="valueL" evaluation="0.07383" />
+    <item index="13" value="valueM" evaluation="0.01003" />
+    <item index="14" value="valueN" evaluation="0.28181" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="issueC">
+    <item index="1" value="valueA" evaluation="0.84874" />
+    <item index="2" value="valueB" evaluation="0.0" />
+    <item index="3" value="valueC" evaluation="0.96698" />
+    <item index="4" value="valueD" evaluation="0.6302" />
+    <item index="5" value="valueE" evaluation="1.0" />
+    <item index="6" value="valueF" evaluation="0.61068" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="issueD">
+    <item index="1" value="valueA" evaluation="1.0" />
+    <item index="2" value="valueB" evaluation="0.0" />
+</issue>
+<issue index="5" etype="discrete" type="discrete" vtype="discrete" name="issueE">
+    <item index="1" value="valueA" evaluation="0.0" />
+    <item index="2" value="valueB" evaluation="1.0" />
+</issue>
+<weight index="1" value="0.23027000000000006">
+</weight>
+<weight index="2" value="0.4884900000000001">
+</weight>
+<weight index="3" value="0.10986000000000003">
+</weight>
+<weight index="4" value="0.10204000000000003">
+</weight>
+<weight index="5" value="0.06934000000000001">
+</weight>
+</objective>
+<reservation value="0.0" />
+</utility_space>

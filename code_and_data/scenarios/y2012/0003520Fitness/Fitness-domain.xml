@@ -1,0 +1,76 @@
+<negotiation_template>
+<utility_space number_of_issues="6">
+<objective description="" etype="objective" index="0" name="root" type="objective">
+    <issue etype="discrete" index="1" name="dummy" type="discrete" vtype="discrete">
+        <item index="1" value="dummy" cost="0" description="dummy">
+        </item>
+    </issue>
+    <issue etype="discrete" index="2" name="kind of fitness" type="discrete" vtype="discrete">
+        <item index="1" value="swimming" cost="0" description="swimming">
+        </item>
+        <item index="2" value="yoga" cost="0" description="yoga">
+        </item>
+        <item index="3" value="aerobics" cost="0" description="aerobics">
+        </item>
+        <item index="4" value="running" cost="0" description="running">
+        </item>
+        <item index="5" value="tennis" cost="0" description="tennis">
+        </item>
+    </issue>
+    <issue etype="discrete" index="3" name="time to do" type="discrete" vtype="discrete">
+        <item index="1" value="30minutes" cost="0" description="30minutes">
+        </item>
+        <item index="2" value="1hour" cost="0" description="1hour">
+        </item>
+        <item index="3" value="3hour" cost="0" description="3hour">
+        </item>
+        <item index="4" value="5hour" cost="0" description="5hour">
+        </item>
+    </issue>
+    <issue etype="discrete" index="4" name="distance" type="discrete" vtype="discrete">
+        <item index="1" value="0km" cost="0" description="0km">
+        </item>
+        <item index="2" value="~1km" cost="0" description="~1km">
+        </item>
+        <item index="3" value="~40km" cost="0" description="~40km">
+        </item>
+        <item index="4" value="~80km" cost="0" description="~80km">
+        </item>
+    </issue>
+    <issue etype="discrete" index="5" name="intensity" type="discrete" vtype="discrete">
+        <item index="1" value="light" cost="0" description="light">
+        </item>
+        <item index="2" value="moderate" cost="0" description="moderate">
+        </item>
+        <item index="3" value="as training" cost="0" description="as training">
+        </item>
+        <item index="4" value="as boot-camp" cost="0" description="as boot-camp">
+        </item>
+    </issue>
+    <issue etype="discrete" index="6" name="Price($)" type="discrete" vtype="discrete">
+        <item index="1" value="0" cost="0" description="0">
+        </item>
+        <item index="2" value="1" cost="0" description="1">
+        </item>
+        <item index="3" value="2" cost="0" description="2">
+        </item>
+        <item index="4" value="3" cost="0" description="3">
+        </item>
+        <item index="5" value="4" cost="0" description="4">
+        </item>
+        <item index="6" value="5" cost="0" description="5">
+        </item>
+        <item index="7" value="6" cost="0" description="6">
+        </item>
+        <item index="8" value="7" cost="0" description="7">
+        </item>
+        <item index="9" value="8" cost="0" description="8">
+        </item>
+        <item index="10" value="9" cost="0" description="9">
+        </item>
+        <item index="11" value="10" cost="0" description="10">
+        </item>
+    </issue>
+</objective>
+</utility_space>
+</negotiation_template>

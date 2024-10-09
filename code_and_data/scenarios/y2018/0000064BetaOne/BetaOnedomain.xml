@@ -1,0 +1,36 @@
+<negotiation_template>
+<utility_space number_of_issues="3">
+<objective description="" etype="objective" index="0" name="root" type="objective">
+    <issue etype="discrete" index="1" name="Genre" type="discrete" vtype="discrete">
+        <item index="1" value="RPG" cost="0" description="RPG">
+        </item>
+        <item index="2" value="Shooter" cost="0" description="Shooter">
+        </item>
+        <item index="3" value="Platformer" cost="0" description="Platformer">
+        </item>
+        <item index="4" value="Strategy" cost="0" description="Strategy">
+        </item>
+    </issue>
+    <issue etype="discrete" index="2" name="Price" type="discrete" vtype="discrete">
+        <item index="1" value="5" cost="0" description="5">
+        </item>
+        <item index="2" value="10" cost="0" description="10">
+        </item>
+        <item index="3" value="30" cost="0" description="30">
+        </item>
+        <item index="4" value="60" cost="0" description="60">
+        </item>
+    </issue>
+    <issue etype="discrete" index="3" name="Game Length" type="discrete" vtype="discrete">
+        <item index="1" value="1" cost="0" description="1">
+        </item>
+        <item index="2" value="3" cost="0" description="3">
+        </item>
+        <item index="3" value="10" cost="0" description="10">
+        </item>
+        <item index="4" value="30" cost="0" description="30">
+        </item>
+    </issue>
+</objective>
+</utility_space>
+</negotiation_template>

@@ -1,0 +1,30 @@
+<utility_space type="any" number_of_issues="3">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="food">
+    <item index="1" value="shshi" evaluation="0.7624018954044236" />
+    <item index="2" value="pizza" evaluation="0.23727324828709506" />
+    <item index="3" value="noodles" evaluation="0.4998375718457593" />
+    <item index="4" value="Katsudon" evaluation="1.024966218963088" />
+    <item index="5" value="curry" evaluation="-0.025291075271569208" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="price">
+    <item index="1" value="$7" evaluation="0.23727324828709506" />
+    <item index="2" value="$12" evaluation="0.5786068689133586" />
+    <item index="3" value="$15" evaluation="0.7624018954044236" />
+    <item index="4" value="$20" evaluation="0.8411711924720229" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Location">
+    <item index="1" value="~200m" evaluation="1.1299919483865535" />
+    <item index="2" value="~400m" evaluation="0.5260940042016258" />
+    <item index="3" value="~1km" evaluation="0.07973465415189651" />
+    <item index="4" value="1km~" evaluation="-0.2090861017626342" />
+</issue>
+<weight index="1" value="0.3812145094226015">
+</weight>
+<weight index="2" value="0.3114548197299786">
+</weight>
+<weight index="3" value="0.30733067084742">
+</weight>
+</objective>
+<reservation value="-0.2878553988302335" />
+</utility_space>

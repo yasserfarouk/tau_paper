@@ -1,0 +1,61 @@
+<utility_space type="any" number_of_issues="4">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Spade">
+    <item index="1" value="s1" evaluation="0.0" />
+    <item index="2" value="s2" evaluation="0.1111111111111111" />
+    <item index="3" value="s3" evaluation="0.2222222222222222" />
+    <item index="4" value="s4" evaluation="0.3333333333333333" />
+    <item index="5" value="s5" evaluation="0.4444444444444445" />
+    <item index="6" value="s6" evaluation="0.5555555555555556" />
+    <item index="7" value="s7" evaluation="0.6666666666666665" />
+    <item index="8" value="s8" evaluation="0.7777777777777777" />
+    <item index="9" value="s9" evaluation="0.8888888888888888" />
+    <item index="10" value="s10" evaluation="1.0" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Heart">
+    <item index="1" value="h1" evaluation="0.0" />
+    <item index="2" value="h2" evaluation="0.1111111111111111" />
+    <item index="3" value="h3" evaluation="0.2222222222222222" />
+    <item index="4" value="h4" evaluation="0.3333333333333333" />
+    <item index="5" value="h5" evaluation="0.4444444444444445" />
+    <item index="6" value="h6" evaluation="0.5555555555555556" />
+    <item index="7" value="h7" evaluation="0.6666666666666665" />
+    <item index="8" value="h8" evaluation="0.7777777777777777" />
+    <item index="9" value="h9" evaluation="0.8888888888888888" />
+    <item index="10" value="h10" evaluation="1.0" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Club">
+    <item index="1" value="c1" evaluation="0.0" />
+    <item index="2" value="c2" evaluation="0.1111111111111111" />
+    <item index="3" value="c3" evaluation="0.2222222222222222" />
+    <item index="4" value="c4" evaluation="0.3333333333333333" />
+    <item index="5" value="c5" evaluation="0.4444444444444445" />
+    <item index="6" value="c6" evaluation="0.5555555555555556" />
+    <item index="7" value="c7" evaluation="0.6666666666666665" />
+    <item index="8" value="c8" evaluation="0.7777777777777777" />
+    <item index="9" value="c9" evaluation="0.8888888888888888" />
+    <item index="10" value="c10" evaluation="1.0" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="Diamond">
+    <item index="1" value="d1" evaluation="0.0" />
+    <item index="2" value="d2" evaluation="0.1111111111111111" />
+    <item index="3" value="d3" evaluation="0.2222222222222222" />
+    <item index="4" value="d4" evaluation="0.3333333333333333" />
+    <item index="5" value="d5" evaluation="0.4444444444444445" />
+    <item index="6" value="d6" evaluation="0.5555555555555556" />
+    <item index="7" value="d7" evaluation="0.6666666666666665" />
+    <item index="8" value="d8" evaluation="0.7777777777777777" />
+    <item index="9" value="d9" evaluation="0.8888888888888888" />
+    <item index="10" value="d10" evaluation="1.0" />
+</issue>
+<weight index="1" value="0.8001876256877977">
+</weight>
+<weight index="2" value="0.04784592702235855">
+</weight>
+<weight index="3" value="0.05282619187376834">
+</weight>
+<weight index="4" value="0.09914025541607531">
+</weight>
+</objective>
+<reservation value="-0.022222222222222164" />
+</utility_space>

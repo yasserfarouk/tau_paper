@@ -1,0 +1,86 @@
+<negotiation_template>
+<utility_space number_of_issues="7">
+<objective description="" etype="objective" index="0" name="root" type="objective">
+    <issue etype="discrete" index="1" name="place" type="discrete" vtype="discrete">
+        <item index="1" value="esfehan" cost="0" description="esfehan">
+        </item>
+        <item index="2" value="shiraz" cost="0" description="shiraz">
+        </item>
+        <item index="3" value="tehran" cost="0" description="tehran">
+        </item>
+        <item index="4" value="tabriz" cost="0" description="tabriz">
+        </item>
+        <item index="5" value="rasht" cost="0" description="rasht">
+        </item>
+        <item index="6" value="gheshm" cost="0" description="gheshm">
+        </item>
+        <item index="7" value="kish" cost="0" description="kish">
+        </item>
+    </issue>
+    <issue etype="discrete" index="2" name="budget" type="discrete" vtype="discrete">
+        <item index="1" value="1000-1500" cost="0" description="1000-1500">
+        </item>
+        <item index="2" value="1500-2000" cost="0" description="1500-2000">
+        </item>
+        <item index="3" value="2000-2500" cost="0" description="2000-2500">
+        </item>
+        <item index="4" value="2500-3000" cost="0" description="2500-3000">
+        </item>
+        <item index="5" value="3000-3500" cost="0" description="3000-3500">
+        </item>
+        <item index="6" value="3500-4000" cost="0" description="3500-4000">
+        </item>
+    </issue>
+    <issue etype="discrete" index="3" name="duration" type="discrete" vtype="discrete">
+        <item index="1" value="3" cost="0" description="3">
+        </item>
+        <item index="2" value="5" cost="0" description="5">
+        </item>
+        <item index="3" value="7" cost="0" description="7">
+        </item>
+        <item index="4" value="9" cost="0" description="9">
+        </item>
+        <item index="5" value="11" cost="0" description="11">
+        </item>
+    </issue>
+    <issue etype="discrete" index="4" name="purpose" type="discrete" vtype="discrete">
+        <item index="1" value="sightseeing" cost="0" description="sightseeing">
+        </item>
+        <item index="2" value="Business" cost="0" description="Business">
+        </item>
+        <item index="3" value="activity" cost="0" description="activity">
+        </item>
+    </issue>
+    <issue etype="discrete" index="5" name="staying_at" type="discrete" vtype="discrete">
+        <item index="1" value="hotel" cost="0" description="hotel">
+        </item>
+        <item index="2" value="villa" cost="0" description="villa">
+        </item>
+        <item index="3" value="local_houses" cost="0" description="local_houses">
+        </item>
+        <item index="4" value="tent" cost="0" description="tent">
+        </item>
+    </issue>
+    <issue etype="discrete" index="6" name="transportation_type" type="discrete" vtype="discrete">
+        <item index="1" value="public_transportation" cost="0" description="public_transportation">
+        </item>
+        <item index="2" value="renting_a_car" cost="0" description="renting_a_car">
+        </item>
+        <item index="3" value="motorcycle" cost="0" description="motorcycle">
+        </item>
+        <item index="4" value="Hitchhiking" cost="0" description="Hitchhiking">
+        </item>
+    </issue>
+    <issue etype="discrete" index="7" name="food" type="discrete" vtype="discrete">
+        <item index="1" value="local_foods" cost="0" description="local_foods">
+        </item>
+        <item index="2" value="resturant" cost="0" description="resturant">
+        </item>
+        <item index="3" value="cooking" cost="0" description="cooking">
+        </item>
+        <item index="4" value="buying" cost="0" description="buying">
+        </item>
+    </issue>
+</objective>
+</utility_space>
+</negotiation_template>

@@ -1,0 +1,36 @@
+<utility_space type="any" number_of_issues="4">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Price">
+    <item index="1" value="$4.37" evaluation="1.1207131938083337" />
+    <item index="2" value="$4.12" evaluation="0.7342603683571841" />
+    <item index="3" value="$3.98" evaluation="0.34780754290603455" />
+    <item index="4" value="$3.71" evaluation="0.1545811301804598" />
+    <item index="5" value="$3.47" evaluation="0.0" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Delivery">
+    <item index="1" value="60 days" evaluation="0.0" />
+    <item index="2" value="45 days" evaluation="0.7342603683571841" />
+    <item index="3" value="30 days" evaluation="0.34780754290603455" />
+    <item index="4" value="20 days" evaluation="0.1545811301804598" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Payment">
+    <item index="1" value="Upon delivery" evaluation="0.34780754290603455" />
+    <item index="2" value="30 days after delivery" evaluation="0.9274867810827588" />
+    <item index="3" value="60 days after delivery" evaluation="0.0" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="Returns">
+    <item index="1" value="Full price" evaluation="0.0" />
+    <item index="2" value="5% spoilage allowed" evaluation="1.1207131938083337" />
+    <item index="3" value="10% spoilage allowed" evaluation="0.1545811301804598" />
+</issue>
+<weight index="1" value="0.28841081991551565">
+</weight>
+<weight index="2" value="0.19126751570348005">
+</weight>
+<weight index="3" value="0.2421890531816915">
+</weight>
+<weight index="4" value="0.2781326111993128">
+</weight>
+</objective>
+<reservation value="-0.03091622603609196" />
+</utility_space>

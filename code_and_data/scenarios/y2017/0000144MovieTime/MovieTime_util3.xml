@@ -1,0 +1,36 @@
+<utility_space type="any" number_of_issues="4">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="FilmGenre">
+    <item index="1" value="Thriller" evaluation="0.180330030581179" />
+    <item index="2" value="Comedy" evaluation="0.9016501529058949" />
+    <item index="3" value="Adventure" evaluation="1.262310214068253" />
+    <item index="4" value="Documentary" evaluation="1.442640244649432" />
+    <item index="5" value="FilmNoir" evaluation="0.540990091743537" />
+    <item index="6" value="Animation" evaluation="0.0" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Place">
+    <item index="1" value="Home" evaluation="0.0" />
+    <item index="2" value="Cinema" evaluation="0.36066006116235794" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Transportation">
+    <item index="1" value="Car" evaluation="0.0" />
+    <item index="2" value="Bus" evaluation="0.721320122324716" />
+    <item index="3" value="Taxi" evaluation="0.180330030581179" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="Snack">
+    <item index="1" value="PopCorn" evaluation="0.0" />
+    <item index="2" value="Nachos" evaluation="1.081980183487074" />
+    <item index="3" value="IceCream" evaluation="0.180330030581179" />
+    <item index="4" value="MilkShake" evaluation="0.9016501529058949" />
+</issue>
+<weight index="1" value="0.38600936335429187">
+</weight>
+<weight index="2" value="0.2044922290727707">
+</weight>
+<weight index="3" value="0.2043308708952838">
+</weight>
+<weight index="4" value="0.20516753667765367">
+</weight>
+</objective>
+<reservation value="-0.180330030581179" />
+</utility_space>

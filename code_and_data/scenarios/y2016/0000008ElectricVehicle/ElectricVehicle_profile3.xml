@@ -1,0 +1,23 @@
+<utility_space type="any" number_of_issues="3">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="EnergyConsumption">
+    <item index="1" value="Low" evaluation="1.1249999999999998" />
+    <item index="2" value="High" evaluation="-0.12499999999999997" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="EnginePower">
+    <item index="1" value="Low" evaluation="0.7083333333333333" />
+    <item index="2" value="High" evaluation="0.2916666666666666" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Price">
+    <item index="1" value="Low" evaluation="0.7083333333333333" />
+    <item index="2" value="High" evaluation="0.2916666666666666" />
+</issue>
+<weight index="1" value="0.7000000000000001">
+</weight>
+<weight index="2" value="0.20000000000000007">
+</weight>
+<weight index="3" value="0.10000000000000003">
+</weight>
+</objective>
+<reservation value="-1.6306400674181987e-16" />
+</utility_space>

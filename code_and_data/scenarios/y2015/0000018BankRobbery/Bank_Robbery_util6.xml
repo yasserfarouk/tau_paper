@@ -1,0 +1,25 @@
+<utility_space type="any" number_of_issues="3">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Roles">
+    <item index="1" value="Driver" evaluation="1.3310374621828867" />
+    <item index="2" value="Hostage Taker" evaluation="-0.05111752598810494" />
+    <item index="3" value="Money Grabber" evaluation="-0.3275485236223033" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Escape Plan">
+    <item index="1" value="Car" evaluation="0.7781754669144898" />
+    <item index="2" value="Hellicopter" evaluation="-0.05111752598810494" />
+    <item index="3" value="Horse" evaluation="0.22531347164609342" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Money Split">
+    <item index="1" value="Proportional to Performance" evaluation="0.7781754669144898" />
+    <item index="2" value="Equally" evaluation="0.7781754669144898" />
+</issue>
+<weight index="1" value="0.401229484001376">
+</weight>
+<weight index="2" value="0.40338746812824233">
+</weight>
+<weight index="3" value="0.19538304787038188">
+</weight>
+</objective>
+<reservation value="-0.5210502219662424" />
+</utility_space>

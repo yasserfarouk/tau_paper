@@ -1,0 +1,37 @@
+<utility_space type="any" number_of_issues="3">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Guitar">
+    <item index="1" value="Ibanez" evaluation="0.4179750902305464" />
+    <item index="2" value="Epiphone" evaluation="0.7674855475827144" />
+    <item index="3" value="Gibson" evaluation="1.1169960049348822" />
+    <item index="4" value="Gretsch" evaluation="-0.07133955006248872" />
+    <item index="5" value="Yamaha" evaluation="0.5577792731714135" />
+    <item index="6" value="Fender" evaluation="0.06846463287837846" />
+    <item index="7" value="Hohner" evaluation="0.2781709072896792" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Piano">
+    <item index="1" value="Casio" evaluation="-0.001437458592055123" />
+    <item index="2" value="Yamaha" evaluation="0.2082688158192456" />
+    <item index="3" value="Nord" evaluation="0.48787718170098" />
+    <item index="4" value="Bluthner" evaluation="0.6276813646418471" />
+    <item index="5" value="Baldwin" evaluation="0.06846463287837846" />
+    <item index="6" value="Ritmuller" evaluation="0.4179750902305464" />
+    <item index="7" value="Seiler" evaluation="0.837387639053148" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Amplifier">
+    <item index="1" value="Laney" evaluation="0.3480729987601128" />
+    <item index="2" value="Blackstar" evaluation="0.5577792731714135" />
+    <item index="3" value="Ashton" evaluation="0.06846463287837846" />
+    <item index="4" value="Line 6" evaluation="0.7674855475827144" />
+    <item index="5" value="Fender" evaluation="1.1169960049348822" />
+    <item index="6" value="Yamaha" evaluation="0.9072897305235815" />
+</issue>
+<weight index="1" value="0.28050399365550394">
+</weight>
+<weight index="2" value="0.418428127377161">
+</weight>
+<weight index="3" value="0.30106787896733506">
+</weight>
+</objective>
+<reservation value="-0.28104582447378945" />
+</utility_space>

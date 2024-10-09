@@ -1,0 +1,45 @@
+__python_class__: negmas.outcomes.outcome_space.DiscreteCartesianOutcomeSpace
+issues:
+- __python_class__: negmas.outcomes.categorical_issue.CategoricalIssue
+  n_values: 4
+  name: Bread type
+  values:
+  - Baguette
+  - Crackers
+  - Croissants
+  - Plain bread
+- __python_class__: negmas.outcomes.categorical_issue.CategoricalIssue
+  n_values: 5
+  name: Fruit
+  values:
+  - Apples
+  - Bananas
+  - Cherries
+  - Grapes
+  - Pears
+- __python_class__: negmas.outcomes.categorical_issue.CategoricalIssue
+  n_values: 4
+  name: Snacks
+  values:
+  - Chocolate bars
+  - Doughnuts
+  - Nachos
+  - Popcorn
+- __python_class__: negmas.outcomes.categorical_issue.CategoricalIssue
+  n_values: 4
+  name: Spreads
+  values:
+  - Cheese
+  - Jam
+  - Peanut butter
+  - Sandwichspread
+- __python_class__: negmas.outcomes.categorical_issue.CategoricalIssue
+  n_values: 5
+  name: Vegetables
+  values:
+  - Beans
+  - Broccoli
+  - Leek
+  - Potatoes
+  - Spinach
+name: /Users/yasser/code/old/scenarios/scenarios/original/anac/y2011/Grocery/Grocery_domain.xml

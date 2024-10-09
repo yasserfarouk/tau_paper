@@ -1,0 +1,43 @@
+<utility_space type="any" number_of_issues="5">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Size of Fund">
+    <item index="1" value="$100 Billion" evaluation="0.8059457503622303" />
+    <item index="2" value="$50 Billion" evaluation="0.6044593127716726" />
+    <item index="3" value="$10 billion" evaluation="0.40297287518111513" />
+    <item index="4" value="No agreement" evaluation="0.0" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Impact on Other Aid">
+    <item index="1" value="No reduction" evaluation="0.7052025315669515" />
+    <item index="2" value="Reduction equal to half of fund size" evaluation="0.40297287518111513" />
+    <item index="3" value="Reduction equal to fund size" evaluation="0.20148643759055754" />
+    <item index="4" value="No agreement" evaluation="0.0" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Zimbabwe Trade Policy">
+    <item index="1" value="Zimbabwe will reduce tariffs on imports" evaluation="0.0" />
+    <item index="2" value="Zimbabwe will increase tariffs on imports" evaluation="0.8059457503622303" />
+    <item index="3" value="No agreement" evaluation="0.40297287518111513" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="England Trade Policy">
+    <item index="1" value="England will reduce imports" evaluation="0.0" />
+    <item index="2" value="England will increase imports" evaluation="1.8133779383150181" />
+    <item index="3" value="No agreement" evaluation="0.8059457503622303" />
+</issue>
+<issue index="5" etype="discrete" type="discrete" vtype="discrete" name="Forum on Other Health Issues">
+    <item index="1" value="Creation of fund" evaluation="1.0074321879527879" />
+    <item index="2" value="Creation of committee to discuss creation of fund" evaluation="0.8059457503622303" />
+    <item index="3" value="Creation of committee to develop agenda" evaluation="0.6044593127716726" />
+    <item index="4" value="No" evaluation="0.0" />
+</issue>
+<weight index="1" value="0.1973156125672921">
+</weight>
+<weight index="2" value="0.2012655533103384">
+</weight>
+<weight index="3" value="0.15416387999461664">
+</weight>
+<weight index="4" value="0.1541227580803161">
+</weight>
+<weight index="5" value="0.29313219604743673">
+</weight>
+</objective>
+<reservation value="-0.07052025315669515" />
+</utility_space>

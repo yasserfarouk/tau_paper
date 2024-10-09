@@ -1,0 +1,80 @@
+<negotiation_template>
+<utility_space number_of_issues="8">
+<objective description="" etype="objective" index="0" name="root" type="objective">
+    <issue etype="discrete" index="1" name="Social Security" type="discrete" vtype="discrete">
+        <item index="1" value="no welfare and no health insurance" cost="0" description="no welfare and no health insurance">
+        </item>
+        <item index="2" value="welfare and no health insurance" cost="0" description="welfare and no health insurance">
+        </item>
+        <item index="3" value="no welfare and health insurance" cost="0" description="no welfare and health insurance">
+        </item>
+        <item index="4" value="welfare and health insurance" cost="0" description="welfare and health insurance">
+        </item>
+    </issue>
+    <issue etype="discrete" index="2" name="Labor tax" type="discrete" vtype="discrete">
+        <item index="1" value="Low labor tax" cost="0" description="Low labor tax">
+        </item>
+        <item index="2" value="Medium labor tax" cost="0" description="Medium labor tax">
+        </item>
+        <item index="3" value="High labor tax" cost="0" description="High labor tax">
+        </item>
+    </issue>
+    <issue etype="discrete" index="3" name="Environmental tax" type="discrete" vtype="discrete">
+        <item index="1" value="Low tax" cost="0" description="Low tax">
+        </item>
+        <item index="2" value="Medium tax" cost="0" description="Medium tax">
+        </item>
+        <item index="3" value="High tax" cost="0" description="High tax">
+        </item>
+    </issue>
+    <issue etype="discrete" index="4" name="Usage of army" type="discrete" vtype="discrete">
+        <item index="1" value="No army" cost="0" description="No army">
+        </item>
+        <item index="2" value="Army just for defence" cost="0" description="Army just for defence">
+        </item>
+        <item index="3" value="Army for peace mission" cost="0" description="Army for peace mission">
+        </item>
+        <item index="4" value="Army for offencive missions" cost="0" description="Army for offencive missions">
+        </item>
+    </issue>
+    <issue etype="discrete" index="5" name="Immigration policy" type="discrete" vtype="discrete">
+        <item index="1" value="Closed borders" cost="0" description="Closed borders">
+        </item>
+        <item index="2" value="Just refugees" cost="0" description="Just refugees">
+        </item>
+        <item index="3" value="Just people from the EU" cost="0" description="Just people from the EU">
+        </item>
+        <item index="4" value="People from the EU and refugees" cost="0" description="People from the EU and refugees">
+        </item>
+        <item index="5" value="Open borders" cost="0" description="Open borders">
+        </item>
+    </issue>
+    <issue etype="discrete" index="6" name="Stay or leave EU" type="discrete" vtype="discrete">
+        <item index="1" value="stay" cost="0" description="stay">
+        </item>
+        <item index="2" value="leave" cost="0" description="leave">
+        </item>
+    </issue>
+    <issue etype="discrete" index="7" name="National or globalized economy" type="discrete" vtype="discrete">
+        <item index="1" value="Only dependent on national products" cost="0" description="Only dependent on national products">
+        </item>
+        <item index="2" value="Mostly dependent on national products, but some export" cost="0" description="Mostly dependent on national products, but some export">
+        </item>
+        <item index="3" value="somewhat dependent on export" cost="0" description="somewhat dependent on export">
+        </item>
+        <item index="4" value="mostly dependent on export" cost="0" description="mostly dependent on export">
+        </item>
+    </issue>
+    <issue etype="discrete" index="8" name="Drug policy" type="discrete" vtype="discrete">
+        <item index="1" value="All drugs legal" cost="0" description="All drugs legal">
+        </item>
+        <item index="2" value="Softdrugs legal" cost="0" description="Softdrugs legal">
+        </item>
+        <item index="3" value="Softdrugs tolerated" cost="0" description="Softdrugs tolerated">
+        </item>
+        <item index="4" value="All drugs illegal" cost="0" description="All drugs illegal">
+        </item>
+    </issue>
+</objective>
+</utility_space>
+</negotiation_template>

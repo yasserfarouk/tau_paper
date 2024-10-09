@@ -1,0 +1,61 @@
+<utility_space type="any" number_of_issues="7">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Number of Wind Turbines">
+    <item index="1" value="less than or equal to 20" evaluation="-0.10711025407537958" />
+    <item index="2" value="larger than 20, less than or equal to 40" evaluation="0.24590084782133392" />
+    <item index="3" value="larger than 40, less than or equal to 60" evaluation="0.24590084782133392" />
+    <item index="4" value="larger than 60, less than or equal to 80" evaluation="0.24590084782133392" />
+    <item index="5" value="larger than 80, less than or equal to 100" evaluation="0.5989119497180474" />
+    <item index="6" value="larger than 100, less than or equal to 120" evaluation="0.5989119497180474" />
+    <item index="7" value="larger than 120, less than or equal to 140" evaluation="0.5989119497180474" />
+    <item index="8" value="larger than 140" evaluation="-0.10711025407537958" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Price Per Wind Turbine">
+    <item index="1" value="very expensive" evaluation="-0.10711025407537958" />
+    <item index="2" value="expensive" evaluation="-0.10711025407537958" />
+    <item index="3" value="fair" evaluation="0.24590084782133392" />
+    <item index="4" value="cheap" evaluation="0.9519230516147609" />
+    <item index="5" value="very cheap" evaluation="1.657945255408188" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Sound">
+    <item index="1" value="loud and noisy" evaluation="0.24590084782133392" />
+    <item index="2" value="low but noisy" evaluation="0.24590084782133392" />
+    <item index="3" value="nearly slient" evaluation="0.24590084782133392" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="Spacing">
+    <item index="1" value="as close as possible" evaluation="0.5989119497180474" />
+    <item index="2" value="fairly close" evaluation="0.24590084782133392" />
+    <item index="3" value="far to each other" evaluation="-0.10711025407537958" />
+</issue>
+<issue index="5" etype="discrete" type="discrete" vtype="discrete" name="Size Of Wind Turbines">
+    <item index="1" value="largest in the world" evaluation="0.24590084782133392" />
+    <item index="2" value="larger than most of wind turbines around the world" evaluation="0.5989119497180474" />
+    <item index="3" value="average size of wind turbines around the world" evaluation="0.9519230516147609" />
+    <item index="4" value="smaller than most of wind turbines around the world" evaluation="0.5989119497180474" />
+    <item index="5" value="smallest in the world" evaluation="0.24590084782133392" />
+</issue>
+<issue index="6" etype="discrete" type="discrete" vtype="discrete" name="Onshore or Offshore">
+    <item index="1" value="onshore" evaluation="0.24590084782133392" />
+    <item index="2" value="offshore" evaluation="0.5989119497180474" />
+</issue>
+<issue index="7" etype="discrete" type="discrete" vtype="discrete" name="Material">
+    <item index="1" value="glass fiber" evaluation="0.5989119497180474" />
+    <item index="2" value="carbon fiber" evaluation="0.24590084782133392" />
+</issue>
+<weight index="1" value="0.24565526784747257">
+</weight>
+<weight index="2" value="0.3637269099625798">
+</weight>
+<weight index="3" value="0.042135035278738034">
+</weight>
+<weight index="4" value="0.08719888295579661">
+</weight>
+<weight index="5" value="0.08714534336947541">
+</weight>
+<weight index="6" value="0.08709369063879095">
+</weight>
+<weight index="7" value="0.08704486994714655">
+</weight>
+</objective>
+<reservation value="-0.10711025407537952" />
+</utility_space>

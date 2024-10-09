@@ -1,0 +1,58 @@
+<utility_space type="any" number_of_issues="6">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="dummy">
+    <item index="1" value="dummy" evaluation="0.04455973485652749" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="kind of fitness">
+    <item index="1" value="swimming" evaluation="0.9173331753216482" />
+    <item index="2" value="yoga" evaluation="1.353719895554208" />
+    <item index="3" value="aerobics" evaluation="0.4809464550890877" />
+    <item index="4" value="running" evaluation="0.04455973485652749" />
+    <item index="5" value="tennis" evaluation="1.790106615786768" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="time to do">
+    <item index="1" value="30minutes" evaluation="0.9173331753216482" />
+    <item index="2" value="1hour" evaluation="1.353719895554208" />
+    <item index="3" value="3hour" evaluation="0.4809464550890877" />
+    <item index="4" value="5hour" evaluation="0.04455973485652749" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="distance">
+    <item index="1" value="0km" evaluation="0.9173331753216482" />
+    <item index="2" value="~1km" evaluation="1.353719895554208" />
+    <item index="3" value="~40km" evaluation="0.4809464550890877" />
+    <item index="4" value="~80km" evaluation="0.04455973485652749" />
+</issue>
+<issue index="5" etype="discrete" type="discrete" vtype="discrete" name="intensity">
+    <item index="1" value="light" evaluation="0.4809464550890877" />
+    <item index="2" value="moderate" evaluation="0.9173331753216482" />
+    <item index="3" value="as training" evaluation="1.353719895554208" />
+    <item index="4" value="as boot-camp" evaluation="0.04455973485652749" />
+</issue>
+<issue index="6" etype="discrete" type="discrete" vtype="discrete" name="Price($)">
+    <item index="1" value="0" evaluation="3.972040216949569" />
+    <item index="2" value="1" evaluation="3.535653496717009" />
+    <item index="3" value="2" evaluation="3.0992667764844484" />
+    <item index="4" value="3" evaluation="2.6628800562518884" />
+    <item index="5" value="4" evaluation="2.2264933360193284" />
+    <item index="6" value="5" evaluation="1.790106615786768" />
+    <item index="7" value="6" evaluation="1.353719895554208" />
+    <item index="8" value="7" evaluation="0.9173331753216482" />
+    <item index="9" value="8" evaluation="0.4809464550890877" />
+    <item index="10" value="9" evaluation="0.04455973485652749" />
+    <item index="11" value="10" evaluation="-0.39182698537603267" />
+</issue>
+<weight index="1" value="0.5">
+</weight>
+<weight index="2" value="0.07677084132535877">
+</weight>
+<weight index="3" value="0.022530056081682036">
+</weight>
+<weight index="4" value="0.14906124876631424">
+</weight>
+<weight index="5" value="0.14952719648862917">
+</weight>
+<weight index="6" value="0.10211065733801572">
+</weight>
+</objective>
+<reservation value="-0.3918269853760323" />
+</utility_space>

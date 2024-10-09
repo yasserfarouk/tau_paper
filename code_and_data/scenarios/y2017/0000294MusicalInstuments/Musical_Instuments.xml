@@ -1,0 +1,52 @@
+<negotiation_template>
+<utility_space number_of_issues="3">
+<objective description="" etype="objective" index="0" name="root" type="objective">
+    <issue etype="discrete" index="1" name="Guitar" type="discrete" vtype="discrete">
+        <item index="1" value="Ibanez" cost="0" description="Ibanez">
+        </item>
+        <item index="2" value="Epiphone" cost="0" description="Epiphone">
+        </item>
+        <item index="3" value="Gibson" cost="0" description="Gibson">
+        </item>
+        <item index="4" value="Gretsch" cost="0" description="Gretsch">
+        </item>
+        <item index="5" value="Yamaha" cost="0" description="Yamaha">
+        </item>
+        <item index="6" value="Fender" cost="0" description="Fender">
+        </item>
+        <item index="7" value="Hohner" cost="0" description="Hohner">
+        </item>
+    </issue>
+    <issue etype="discrete" index="2" name="Piano" type="discrete" vtype="discrete">
+        <item index="1" value="Casio" cost="0" description="Casio">
+        </item>
+        <item index="2" value="Yamaha" cost="0" description="Yamaha">
+        </item>
+        <item index="3" value="Nord" cost="0" description="Nord">
+        </item>
+        <item index="4" value="Bluthner" cost="0" description="Bluthner">
+        </item>
+        <item index="5" value="Baldwin" cost="0" description="Baldwin">
+        </item>
+        <item index="6" value="Ritmuller" cost="0" description="Ritmuller">
+        </item>
+        <item index="7" value="Seiler" cost="0" description="Seiler">
+        </item>
+    </issue>
+    <issue etype="discrete" index="3" name="Amplifier" type="discrete" vtype="discrete">
+        <item index="1" value="Laney" cost="0" description="Laney">
+        </item>
+        <item index="2" value="Blackstar" cost="0" description="Blackstar">
+        </item>
+        <item index="3" value="Ashton" cost="0" description="Ashton">
+        </item>
+        <item index="4" value="Line 6" cost="0" description="Line 6">
+        </item>
+        <item index="5" value="Fender" cost="0" description="Fender">
+        </item>
+        <item index="6" value="Yamaha" cost="0" description="Yamaha">
+        </item>
+    </issue>
+</objective>
+</utility_space>
+</negotiation_template>

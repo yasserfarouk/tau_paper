@@ -1,0 +1,178 @@
+<negotiation_template>
+<utility_space number_of_issues="6">
+<objective description="" etype="objective" index="0" name="root" type="objective">
+    <issue etype="discrete" index="1" name="Torso" type="discrete" vtype="discrete">
+        <item index="1" value="Humanoid" cost="0" description="Humanoid">
+        </item>
+        <item index="2" value="Block" cost="0" description="Block">
+        </item>
+        <item index="3" value="Spherical" cost="0" description="Spherical">
+        </item>
+    </issue>
+    <issue etype="discrete" index="2" name="Propulsion" type="discrete" vtype="discrete">
+        <item index="1" value="Legs" cost="0" description="Legs">
+        </item>
+        <item index="2" value="Wheel" cost="0" description="Wheel">
+        </item>
+        <item index="3" value="Tracks" cost="0" description="Tracks">
+        </item>
+        <item index="4" value="Hover" cost="0" description="Hover">
+        </item>
+    </issue>
+    <issue etype="discrete" index="3" name="Guns" type="discrete" vtype="discrete">
+        <item index="1" value="1" cost="0" description="1">
+        </item>
+        <item index="2" value="2" cost="0" description="2">
+        </item>
+        <item index="3" value="3" cost="0" description="3">
+        </item>
+        <item index="4" value="4" cost="0" description="4">
+        </item>
+        <item index="5" value="5" cost="0" description="5">
+        </item>
+        <item index="6" value="6" cost="0" description="6">
+        </item>
+        <item index="7" value="7" cost="0" description="7">
+        </item>
+        <item index="8" value="8" cost="0" description="8">
+        </item>
+        <item index="9" value="9" cost="0" description="9">
+        </item>
+        <item index="10" value="10" cost="0" description="10">
+        </item>
+    </issue>
+    <issue etype="discrete" index="4" name="GunType" type="discrete" vtype="discrete">
+        <item index="1" value="Bullets" cost="0" description="Bullets">
+        </item>
+        <item index="2" value="Railgun" cost="0" description="Railgun">
+        </item>
+        <item index="3" value="Laser" cost="0" description="Laser">
+        </item>
+        <item index="4" value="Plasma" cost="0" description="Plasma">
+        </item>
+        <item index="5" value="Soundwave" cost="0" description="Soundwave">
+        </item>
+    </issue>
+    <issue etype="discrete" index="5" name="Color" type="discrete" vtype="discrete">
+        <item index="1" value="Red" cost="0" description="Red">
+        </item>
+        <item index="2" value="Green" cost="0" description="Green">
+        </item>
+        <item index="3" value="Blue" cost="0" description="Blue">
+        </item>
+        <item index="4" value="Yellow" cost="0" description="Yellow">
+        </item>
+        <item index="5" value="Purple" cost="0" description="Purple">
+        </item>
+        <item index="6" value="White" cost="0" description="White">
+        </item>
+        <item index="7" value="Black" cost="0" description="Black">
+        </item>
+        <item index="8" value="Silver" cost="0" description="Silver">
+        </item>
+    </issue>
+    <issue etype="discrete" index="6" name="Height (m)" type="discrete" vtype="discrete">
+        <item index="1" value="1" cost="0" description="1">
+        </item>
+        <item index="2" value="2" cost="0" description="2">
+        </item>
+        <item index="3" value="3" cost="0" description="3">
+        </item>
+        <item index="4" value="4" cost="0" description="4">
+        </item>
+        <item index="5" value="5" cost="0" description="5">
+        </item>
+        <item index="6" value="6" cost="0" description="6">
+        </item>
+        <item index="7" value="7" cost="0" description="7">
+        </item>
+        <item index="8" value="8" cost="0" description="8">
+        </item>
+        <item index="9" value="9" cost="0" description="9">
+        </item>
+        <item index="10" value="10" cost="0" description="10">
+        </item>
+        <item index="11" value="11" cost="0" description="11">
+        </item>
+        <item index="12" value="12" cost="0" description="12">
+        </item>
+        <item index="13" value="13" cost="0" description="13">
+        </item>
+        <item index="14" value="14" cost="0" description="14">
+        </item>
+        <item index="15" value="15" cost="0" description="15">
+        </item>
+        <item index="16" value="16" cost="0" description="16">
+        </item>
+        <item index="17" value="17" cost="0" description="17">
+        </item>
+        <item index="18" value="18" cost="0" description="18">
+        </item>
+        <item index="19" value="19" cost="0" description="19">
+        </item>
+        <item index="20" value="20" cost="0" description="20">
+        </item>
+        <item index="21" value="21" cost="0" description="21">
+        </item>
+        <item index="22" value="22" cost="0" description="22">
+        </item>
+        <item index="23" value="23" cost="0" description="23">
+        </item>
+        <item index="24" value="24" cost="0" description="24">
+        </item>
+        <item index="25" value="25" cost="0" description="25">
+        </item>
+        <item index="26" value="26" cost="0" description="26">
+        </item>
+        <item index="27" value="27" cost="0" description="27">
+        </item>
+        <item index="28" value="28" cost="0" description="28">
+        </item>
+        <item index="29" value="29" cost="0" description="29">
+        </item>
+        <item index="30" value="30" cost="0" description="30">
+        </item>
+        <item index="31" value="31" cost="0" description="31">
+        </item>
+        <item index="32" value="32" cost="0" description="32">
+        </item>
+        <item index="33" value="33" cost="0" description="33">
+        </item>
+        <item index="34" value="34" cost="0" description="34">
+        </item>
+        <item index="35" value="35" cost="0" description="35">
+        </item>
+        <item index="36" value="36" cost="0" description="36">
+        </item>
+        <item index="37" value="37" cost="0" description="37">
+        </item>
+        <item index="38" value="38" cost="0" description="38">
+        </item>
+        <item index="39" value="39" cost="0" description="39">
+        </item>
+        <item index="40" value="40" cost="0" description="40">
+        </item>
+        <item index="41" value="41" cost="0" description="41">
+        </item>
+        <item index="42" value="42" cost="0" description="42">
+        </item>
+        <item index="43" value="43" cost="0" description="43">
+        </item>
+        <item index="44" value="44" cost="0" description="44">
+        </item>
+        <item index="45" value="45" cost="0" description="45">
+        </item>
+        <item index="46" value="46" cost="0" description="46">
+        </item>
+        <item index="47" value="47" cost="0" description="47">
+        </item>
+        <item index="48" value="48" cost="0" description="48">
+        </item>
+        <item index="49" value="49" cost="0" description="49">
+        </item>
+        <item index="50" value="50" cost="0" description="50">
+        </item>
+    </issue>
+</objective>
+</utility_space>
+</negotiation_template>

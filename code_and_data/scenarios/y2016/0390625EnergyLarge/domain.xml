@@ -1,0 +1,102 @@
+<negotiation_template>
+<utility_space number_of_issues="8">
+<objective description="" etype="objective" index="0" name="root" type="objective">
+    <issue etype="discrete" index="1" name="0000-0300" type="discrete" vtype="discrete">
+        <item index="1" value="0kW" cost="0" description="0kW">
+        </item>
+        <item index="2" value="25kW" cost="0" description="25kW">
+        </item>
+        <item index="3" value="50kW" cost="0" description="50kW">
+        </item>
+        <item index="4" value="75kW" cost="0" description="75kW">
+        </item>
+        <item index="5" value="100kW" cost="0" description="100kW">
+        </item>
+    </issue>
+    <issue etype="discrete" index="2" name="0300-0600" type="discrete" vtype="discrete">
+        <item index="1" value="0kW" cost="0" description="0kW">
+        </item>
+        <item index="2" value="25kW" cost="0" description="25kW">
+        </item>
+        <item index="3" value="50kW" cost="0" description="50kW">
+        </item>
+        <item index="4" value="75kW" cost="0" description="75kW">
+        </item>
+        <item index="5" value="100kW" cost="0" description="100kW">
+        </item>
+    </issue>
+    <issue etype="discrete" index="3" name="0600-0900" type="discrete" vtype="discrete">
+        <item index="1" value="0kW" cost="0" description="0kW">
+        </item>
+        <item index="2" value="25kW" cost="0" description="25kW">
+        </item>
+        <item index="3" value="50kW" cost="0" description="50kW">
+        </item>
+        <item index="4" value="75kW" cost="0" description="75kW">
+        </item>
+        <item index="5" value="100kW" cost="0" description="100kW">
+        </item>
+    </issue>
+    <issue etype="discrete" index="4" name="0900-1200" type="discrete" vtype="discrete">
+        <item index="1" value="0kW" cost="0" description="0kW">
+        </item>
+        <item index="2" value="25kW" cost="0" description="25kW">
+        </item>
+        <item index="3" value="50kW" cost="0" description="50kW">
+        </item>
+        <item index="4" value="75kW" cost="0" description="75kW">
+        </item>
+        <item index="5" value="100kW" cost="0" description="100kW">
+        </item>
+    </issue>
+    <issue etype="discrete" index="5" name="1200-1500" type="discrete" vtype="discrete">
+        <item index="1" value="0kW" cost="0" description="0kW">
+        </item>
+        <item index="2" value="25kW" cost="0" description="25kW">
+        </item>
+        <item index="3" value="50kW" cost="0" description="50kW">
+        </item>
+        <item index="4" value="75kW" cost="0" description="75kW">
+        </item>
+        <item index="5" value="100kW" cost="0" description="100kW">
+        </item>
+    </issue>
+    <issue etype="discrete" index="6" name="1500-1800" type="discrete" vtype="discrete">
+        <item index="1" value="0kW" cost="0" description="0kW">
+        </item>
+        <item index="2" value="25kW" cost="0" description="25kW">
+        </item>
+        <item index="3" value="50kW" cost="0" description="50kW">
+        </item>
+        <item index="4" value="75kW" cost="0" description="75kW">
+        </item>
+        <item index="5" value="100kW" cost="0" description="100kW">
+        </item>
+    </issue>
+    <issue etype="discrete" index="7" name="1800-2100" type="discrete" vtype="discrete">
+        <item index="1" value="0kW" cost="0" description="0kW">
+        </item>
+        <item index="2" value="25kW" cost="0" description="25kW">
+        </item>
+        <item index="3" value="50kW" cost="0" description="50kW">
+        </item>
+        <item index="4" value="75kW" cost="0" description="75kW">
+        </item>
+        <item index="5" value="100kW" cost="0" description="100kW">
+        </item>
+    </issue>
+    <issue etype="discrete" index="8" name="2100-0000" type="discrete" vtype="discrete">
+        <item index="1" value="0kW" cost="0" description="0kW">
+        </item>
+        <item index="2" value="25kW" cost="0" description="25kW">
+        </item>
+        <item index="3" value="50kW" cost="0" description="50kW">
+        </item>
+        <item index="4" value="75kW" cost="0" description="75kW">
+        </item>
+        <item index="5" value="100kW" cost="0" description="100kW">
+        </item>
+    </issue>
+</objective>
+</utility_space>
+</negotiation_template>

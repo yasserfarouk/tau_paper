@@ -1,0 +1,53 @@
+<utility_space type="any" number_of_issues="6">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="salad">
+    <item index="1" value="green" evaluation="0.2128058453831609" />
+    <item index="2" value="potato" evaluation="1.0" />
+    <item index="3" value="caesar" evaluation="0.5229126335655522" />
+    <item index="4" value="sea" evaluation="-0.10922812696009149" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="soup">
+    <item index="1" value="corn(ice)" evaluation="0.40364079195694014" />
+    <item index="2" value="corn(hot)" evaluation="1.0" />
+    <item index="3" value="onion" evaluation="0.43942234443952377" />
+    <item index="4" value="miso" evaluation="0.2128058453831609" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="carbohydrate">
+    <item index="1" value="rice" evaluation="0.5229126335655522" />
+    <item index="2" value="bread(roll)" evaluation="1.0" />
+    <item index="3" value="bread(rye)" evaluation="0.3440048711526342" />
+    <item index="4" value="bread(french)" evaluation="-0.1688640477643975" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="main">
+    <item index="1" value="beef" evaluation="1.0" />
+    <item index="2" value="pork" evaluation="0.20087866122229972" />
+    <item index="3" value="chicken" evaluation="0.8688009742305269" />
+    <item index="4" value="fish" evaluation="-0.0973009427992303" />
+</issue>
+<issue index="5" etype="discrete" type="discrete" vtype="discrete" name="drink">
+    <item index="1" value="coke" evaluation="1.0" />
+    <item index="2" value="tea" evaluation="0.5825485543698582" />
+    <item index="3" value="green tea" evaluation="0.08160681961368771" />
+    <item index="4" value="apple" evaluation="0.5229126335655522" />
+    <item index="5" value="orange" evaluation="0.46327671276124616" />
+</issue>
+<issue index="6" etype="discrete" type="discrete" vtype="discrete" name="dessert">
+    <item index="1" value="cake" evaluation="0.5229126335655522" />
+    <item index="2" value="sherbet" evaluation="1.0" />
+    <item index="3" value="ice cream" evaluation="0.2247330295440221" />
+</issue>
+<weight index="1" value="0.12428096270422018">
+</weight>
+<weight index="2" value="0.12321325185401936">
+</weight>
+<weight index="3" value="0.16519069378234436">
+</weight>
+<weight index="4" value="0.29626218840574897">
+</weight>
+<weight index="5" value="0.14905281648727545">
+</weight>
+<weight index="6" value="0.14200008676639164">
+</weight>
+</objective>
+<reservation value="0.0" />
+</utility_space>

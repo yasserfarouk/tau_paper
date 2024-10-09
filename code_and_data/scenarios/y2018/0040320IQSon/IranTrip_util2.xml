@@ -1,0 +1,66 @@
+<utility_space type="any" number_of_issues="7">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="place">
+    <item index="1" value="esfehan" evaluation="0.9255213132541229" />
+    <item index="2" value="shiraz" evaluation="0.8162632925734028" />
+    <item index="3" value="tehran" evaluation="0.05145714780836192" />
+    <item index="4" value="tabriz" evaluation="0.48848923053124244" />
+    <item index="5" value="rasht" evaluation="0.5977472512119625" />
+    <item index="6" value="gheshm" evaluation="0.7070052718926826" />
+    <item index="7" value="kish" evaluation="0.8162632925734028" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="budget">
+    <item index="1" value="1000-1500" evaluation="0.9255213132541229" />
+    <item index="2" value="1500-2000" evaluation="0.8162632925734028" />
+    <item index="3" value="2000-2500" evaluation="0.5977472512119625" />
+    <item index="4" value="2500-3000" evaluation="0.37923120985052233" />
+    <item index="5" value="3000-3500" evaluation="0.16071516848908204" />
+    <item index="6" value="3500-4000" evaluation="-0.05780087287235821" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="duration">
+    <item index="1" value="3" evaluation="0.05145714780836192" />
+    <item index="2" value="5" evaluation="0.2699731891698022" />
+    <item index="3" value="7" evaluation="0.48848923053124244" />
+    <item index="4" value="9" evaluation="0.7070052718926826" />
+    <item index="5" value="11" evaluation="0.9255213132541229" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="purpose">
+    <item index="1" value="sightseeing" evaluation="0.37923120985052233" />
+    <item index="2" value="Business" evaluation="0.9255213132541229" />
+    <item index="3" value="activity" evaluation="0.05145714780836192" />
+</issue>
+<issue index="5" etype="discrete" type="discrete" vtype="discrete" name="staying_at">
+    <item index="1" value="hotel" evaluation="-0.05780087287235821" />
+    <item index="2" value="villa" evaluation="0.05145714780836192" />
+    <item index="3" value="local_houses" evaluation="0.37923120985052233" />
+    <item index="4" value="tent" evaluation="0.9255213132541229" />
+</issue>
+<issue index="6" etype="discrete" type="discrete" vtype="discrete" name="transportation_type">
+    <item index="1" value="public_transportation" evaluation="0.9255213132541229" />
+    <item index="2" value="renting_a_car" evaluation="0.16071516848908204" />
+    <item index="3" value="motorcycle" evaluation="0.37923120985052233" />
+    <item index="4" value="Hitchhiking" evaluation="2.018101520061324" />
+</issue>
+<issue index="7" etype="discrete" type="discrete" vtype="discrete" name="food">
+    <item index="1" value="local_foods" evaluation="0.48848923053124244" />
+    <item index="2" value="resturant" evaluation="0.2699731891698022" />
+    <item index="3" value="cooking" evaluation="0.9255213132541229" />
+    <item index="4" value="buying" evaluation="0.7070052718926826" />
+</issue>
+<weight index="1" value="0.09263577176680858">
+</weight>
+<weight index="2" value="0.5670041043897869">
+</weight>
+<weight index="3" value="0.08448519902364394">
+</weight>
+<weight index="4" value="0.06835283013500631">
+</weight>
+<weight index="5" value="0.07028048108839174">
+</weight>
+<weight index="6" value="0.06816770639065736">
+</weight>
+<weight index="7" value="0.04907390720570525">
+</weight>
+</objective>
+<reservation value="-0.13428148734886228" />
+</utility_space>

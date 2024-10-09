@@ -1,0 +1,40 @@
+<utility_space type="any" number_of_issues="5">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Horse Power">
+    <item index="1" value="Below 200" evaluation="0.14545454545454545" />
+    <item index="2" value="200 Or more" evaluation="-0.03636363636363636" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Seats">
+    <item index="1" value="2" evaluation="0.8727272727272726" />
+    <item index="2" value="5" evaluation="0.509090909090909" />
+    <item index="3" value="7" evaluation="0.14545454545454545" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Mileage">
+    <item index="1" value="Below 10.000km" evaluation="0.8727272727272726" />
+    <item index="2" value="Between 10.000 and 20.000km" evaluation="0.3272727272727272" />
+    <item index="3" value="Above 20.000km" evaluation="-0.03636363636363636" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="Km per Liter Consumption">
+    <item index="1" value="5" evaluation="0.6909090909090909" />
+    <item index="2" value="10" evaluation="0.14545454545454545" />
+    <item index="3" value="15" evaluation="0.3272727272727272" />
+    <item index="4" value="20" evaluation="0.3272727272727272" />
+</issue>
+<issue index="5" etype="discrete" type="discrete" vtype="discrete" name="Wheels">
+    <item index="1" value="3" evaluation="1.2363636363636363" />
+    <item index="2" value="4" evaluation="1.0545454545454545" />
+    <item index="3" value="6" evaluation="-0.03636363636363636" />
+</issue>
+<weight index="1" value="0.1">
+</weight>
+<weight index="2" value="0.1">
+</weight>
+<weight index="3" value="0.1">
+</weight>
+<weight index="4" value="0.1">
+</weight>
+<weight index="5" value="0.6">
+</weight>
+</objective>
+<reservation value="-0.2181818181818182" />
+</utility_space>

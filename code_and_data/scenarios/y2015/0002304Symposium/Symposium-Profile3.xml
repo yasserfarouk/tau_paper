@@ -1,0 +1,51 @@
+<utility_space type="any" number_of_issues="6">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Location">
+    <item index="1" value="Tu Delft" evaluation="-6.842277657836021e-49" />
+    <item index="2" value="Erasumus" evaluation="0.36446155990638757" />
+    <item index="3" value="TU Eindhoven" evaluation="0.7289231198127751" />
+    <item index="4" value="TU Twente" evaluation="1.0933846797191626" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Morning Slot">
+    <item index="1" value="Mr. Bidarra" evaluation="-6.842277657836021e-49" />
+    <item index="2" value="Mr. Eisemann" evaluation="0.36446155990638757" />
+    <item index="3" value="Mr. Bossos" evaluation="0.7289231198127751" />
+    <item index="4" value="Mr. Goedeovergeburen" evaluation="1.0933846797191626" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Afternoon Slot">
+    <item index="1" value="Mr. Talkolot" evaluation="-6.842277657836021e-49" />
+    <item index="2" value="Mr. Ahuff" evaluation="0.36446155990638757" />
+    <item index="3" value="Miss. Getbizzy" evaluation="0.7289231198127751" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="Evening Slot">
+    <item index="1" value="Mr. Gates" evaluation="-6.842277657836021e-49" />
+    <item index="2" value="Mr. Umbertotan" evaluation="0.36446155990638757" />
+    <item index="3" value="Mr. Han" evaluation="0.7289231198127751" />
+    <item index="4" value="Mr. LeeLoo" evaluation="1.0933846797191626" />
+</issue>
+<issue index="5" etype="discrete" type="discrete" vtype="discrete" name="Drinks">
+    <item index="1" value="Coffee and Thee" evaluation="-6.842277657836021e-49" />
+    <item index="2" value="Alcoholic beverages" evaluation="0.36446155990638757" />
+    <item index="3" value="non-Alcoholic beverages" evaluation="0.7289231198127751" />
+</issue>
+<issue index="6" etype="discrete" type="discrete" vtype="discrete" name="Date">
+    <item index="1" value="September" evaluation="-6.842277657836021e-49" />
+    <item index="2" value="October" evaluation="0.36446155990638757" />
+    <item index="3" value="November" evaluation="0.7289231198127751" />
+    <item index="4" value="December" evaluation="1.0933846797191626" />
+</issue>
+<weight index="1" value="7.497762915715141e-05">
+</weight>
+<weight index="2" value="0.3054997664544414">
+</weight>
+<weight index="3" value="0.17017920975789536">
+</weight>
+<weight index="4" value="0.39518579115489605">
+</weight>
+<weight index="5" value="0.0860472074893686">
+</weight>
+<weight index="6" value="0.04301304751424167">
+</weight>
+</objective>
+<reservation value="-0.3644615599063877" />
+</utility_space>

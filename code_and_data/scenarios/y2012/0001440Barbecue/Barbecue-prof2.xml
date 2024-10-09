@@ -1,0 +1,47 @@
+<utility_space type="any" number_of_issues="5">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Meat">
+    <item index="1" value="Burgers and chicken" evaluation="-0.14583333333333334" />
+    <item index="2" value="Fish" evaluation="0.7685185185185185" />
+    <item index="3" value="Luxury meats" evaluation="0.18981481481481485" />
+    <item index="4" value="Biological" evaluation="0.42129629629629634" />
+    <item index="5" value="Vegetarian" evaluation="1.0000000000000002" />
+    <item index="6" value="None" evaluation="1.0000000000000002" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Drinks">
+    <item index="1" value="Non-Alcoholic" evaluation="0.5370370370370371" />
+    <item index="2" value="Beer plus" evaluation="0.6527777777777779" />
+    <item index="3" value="Bio-beer" evaluation="1.0000000000000002" />
+    <item index="4" value="Luxury alcoholic" evaluation="0.8842592592592593" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Location">
+    <item index="1" value="Balcony" evaluation="0.18981481481481485" />
+    <item index="2" value="Woods" evaluation="1.0000000000000002" />
+    <item index="3" value="Park" evaluation="0.3055555555555555" />
+    <item index="4" value="Beach" evaluation="0.6527777777777779" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="Vegetables">
+    <item index="1" value="None" evaluation="-0.14583333333333334" />
+    <item index="2" value="Cheap veggies" evaluation="0.07407407407407406" />
+    <item index="3" value="Good veggies" evaluation="0.6527777777777779" />
+    <item index="4" value="Prepared veggies" evaluation="0.5370370370370371" />
+    <item index="5" value="Superveggies" evaluation="1.0000000000000002" />
+</issue>
+<issue index="5" etype="discrete" type="discrete" vtype="discrete" name="BBQ type">
+    <item index="1" value="Disposable" evaluation="-0.0416666666666667" />
+    <item index="2" value="Normal" evaluation="0.5370370370370371" />
+    <item index="3" value="Gas" evaluation="1.0000000000000002" />
+</issue>
+<weight index="1" value="0.29999999999999993">
+</weight>
+<weight index="2" value="0.09999999999999998">
+</weight>
+<weight index="3" value="0.19999999999999996">
+</weight>
+<weight index="4" value="0.29999999999999993">
+</weight>
+<weight index="5" value="0.09999999999999998">
+</weight>
+</objective>
+<reservation value="-1.3010426069826056e-17" />
+</utility_space>

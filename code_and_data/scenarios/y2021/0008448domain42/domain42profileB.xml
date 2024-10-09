@@ -1,0 +1,68 @@
+<utility_space type="any" number_of_issues="4">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="issueA">
+    <item index="1" value="valueA" evaluation="0.6814871373232401" />
+    <item index="2" value="valueB" evaluation="0.027609258517035384" />
+    <item index="3" value="valueC" evaluation="0.06145681384276771" />
+    <item index="4" value="valueD" evaluation="1.0" />
+    <item index="5" value="valueE" evaluation="0.009171140410333546" />
+    <item index="6" value="valueF" evaluation="0.5543643962812514" />
+    <item index="7" value="valueG" evaluation="0.460106935682507" />
+    <item index="8" value="valueH" evaluation="0.018073006532881047" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="issueB">
+    <item index="1" value="valueA" evaluation="0.12295131429852688" />
+    <item index="2" value="valueB" evaluation="0.010337591833288043" />
+    <item index="3" value="valueC" evaluation="1.0" />
+    <item index="4" value="valueD" evaluation="0.19519967831152446" />
+    <item index="5" value="valueE" evaluation="-0.012582155424765292" />
+    <item index="6" value="valueF" evaluation="0.012997919640026376" />
+    <item index="7" value="valueG" evaluation="0.007574943726290542" />
+    <item index="8" value="valueH" evaluation="0.08027351706042846" />
+    <item index="9" value="valueI" evaluation="0.19617172116398657" />
+    <item index="10" value="valueJ" evaluation="0.1696196032467328" />
+    <item index="11" value="valueK" evaluation="0.01381648204209971" />
+    <item index="12" value="valueL" evaluation="0.1318122523009707" />
+    <item index="13" value="valueM" evaluation="0.1973688686770188" />
+    <item index="14" value="valueN" evaluation="0.01347882505124446" />
+    <item index="15" value="valueO" evaluation="-0.022609544850163626" />
+    <item index="16" value="valueP" evaluation="0.05421253658441872" />
+    <item index="17" value="valueQ" evaluation="0.41162757741971384" />
+    <item index="18" value="valueR" evaluation="0.0626232652657222" />
+    <item index="19" value="valueS" evaluation="0.025296819731178206" />
+    <item index="20" value="valueT" evaluation="0.23649615149612413" />
+    <item index="21" value="valueU" evaluation="0.04156574747238571" />
+    <item index="22" value="valueV" evaluation="-0.013370021736760874" />
+    <item index="23" value="valueW" evaluation="0.2643170411365916" />
+    <item index="24" value="valueX" evaluation="-0.016807983825468876" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="issueC">
+    <item index="1" value="valueA" evaluation="0.46940785097606524" />
+    <item index="2" value="valueB" evaluation="0.2381537403603226" />
+    <item index="3" value="valueC" evaluation="0.0022542881128138764" />
+    <item index="4" value="valueD" evaluation="0.85634229843613" />
+    <item index="5" value="valueE" evaluation="0.40224480588594824" />
+    <item index="6" value="valueF" evaluation="0.09270543354191721" />
+    <item index="7" value="valueG" evaluation="1.0" />
+    <item index="8" value="valueH" evaluation="0.6462480259139831" />
+    <item index="9" value="valueI" evaluation="0.4169277689731386" />
+    <item index="10" value="valueJ" evaluation="0.42141963015451606" />
+    <item index="11" value="valueK" evaluation="0.030668635494784463" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="issueD">
+    <item index="1" value="valueA" evaluation="0.0008320359392114604" />
+    <item index="2" value="valueB" evaluation="1.0" />
+    <item index="3" value="valueC" evaluation="0.14360978292085264" />
+    <item index="4" value="valueD" evaluation="0.1299500228362539" />
+</issue>
+<weight index="1" value="0.12851">
+</weight>
+<weight index="2" value="0.10109">
+</weight>
+<weight index="3" value="0.32766">
+</weight>
+<weight index="4" value="0.44274">
+</weight>
+</objective>
+<reservation value="-0.023203002591666792" />
+</utility_space>

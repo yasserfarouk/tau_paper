@@ -1,0 +1,54 @@
+<utility_space type="any" number_of_issues="5">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Fruit">
+    <item index="1" value="Apricots" evaluation="0.009349615168396051" />
+    <item index="2" value="Cherries" evaluation="0.315572331734916" />
+    <item index="3" value="Coconuts" evaluation="0.621795048301436" />
+    <item index="4" value="Mangoes" evaluation="0.774906406584696" />
+    <item index="5" value="Oranges" evaluation="0.009349615168396051" />
+    <item index="6" value="Peaches" evaluation="0.468683690018176" />
+    <item index="7" value="Pears" evaluation="0.315572331734916" />
+    <item index="8" value="Strawberries" evaluation="1.081129123151216" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Snacks">
+    <item index="1" value="Candy bars" evaluation="0.009349615168396051" />
+    <item index="2" value="Cookies" evaluation="0.621795048301436" />
+    <item index="3" value="Doughnuts" evaluation="0.928017764867956" />
+    <item index="4" value="Mixed-nuts" evaluation="0.621795048301436" />
+    <item index="5" value="Popcorn" evaluation="0.16246097345165603" />
+    <item index="6" value="Potato Chips" evaluation="0.774906406584696" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Spreads">
+    <item index="1" value="Butter" evaluation="0.621795048301436" />
+    <item index="2" value="Cheese" evaluation="0.315572331734916" />
+    <item index="3" value="Chocolate" evaluation="0.16246097345165603" />
+    <item index="4" value="Honey" evaluation="0.468683690018176" />
+    <item index="5" value="Jam" evaluation="0.928017764867956" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="Vegetables">
+    <item index="1" value="Cabbage" evaluation="0.621795048301436" />
+    <item index="2" value="Carrots" evaluation="0.009349615168396051" />
+    <item index="3" value="Eggplants" evaluation="0.928017764867956" />
+    <item index="4" value="Lettuce" evaluation="0.621795048301436" />
+    <item index="5" value="Potatoes" evaluation="0.468683690018176" />
+    <item index="6" value="Tomatos" evaluation="0.009349615168396051" />
+</issue>
+<issue index="5" etype="discrete" type="discrete" vtype="discrete" name="Drinks">
+    <item index="1" value="Coca Cola" evaluation="-0.14376174311486392" />
+    <item index="2" value="Energy-Drinks" evaluation="0.16246097345165603" />
+    <item index="3" value="Juice" evaluation="0.928017764867956" />
+    <item index="4" value="Nescafe" evaluation="0.468683690018176" />
+</issue>
+<weight index="1" value="0.47012994946380937">
+</weight>
+<weight index="2" value="0.22040483326281668">
+</weight>
+<weight index="3" value="0.06922701328873829">
+</weight>
+<weight index="4" value="0.10994703926240927">
+</weight>
+<weight index="5" value="0.13029116472222646">
+</weight>
+</objective>
+<reservation value="-0.4499844596813839" />
+</utility_space>

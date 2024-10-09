@@ -1,0 +1,66 @@
+<negotiation_template>
+<utility_space number_of_issues="4">
+<objective description="" etype="objective" index="0" name="root" type="objective">
+    <issue etype="discrete" index="1" name="Composer" type="discrete" vtype="discrete">
+        <item index="1" value="Mozart" cost="0" description="Mozart">
+        </item>
+        <item index="2" value="Beethoven" cost="0" description="Beethoven">
+        </item>
+        <item index="3" value="Chopin" cost="0" description="Chopin">
+        </item>
+        <item index="4" value="Vivaldi" cost="0" description="Vivaldi">
+        </item>
+        <item index="5" value="List" cost="0" description="List">
+        </item>
+        <item index="6" value="Paganini" cost="0" description="Paganini">
+        </item>
+        <item index="7" value="Bach" cost="0" description="Bach">
+        </item>
+        <item index="8" value="Schubert" cost="0" description="Schubert">
+        </item>
+        <item index="9" value="Tchaikovsky" cost="0" description="Tchaikovsky">
+        </item>
+    </issue>
+    <issue etype="discrete" index="2" name="Category" type="discrete" vtype="discrete">
+        <item index="1" value="Piano" cost="0" description="Piano">
+        </item>
+        <item index="2" value="Violin" cost="0" description="Violin">
+        </item>
+        <item index="3" value="Orchestra" cost="0" description="Orchestra">
+        </item>
+        <item index="4" value="Opera" cost="0" description="Opera">
+        </item>
+    </issue>
+    <issue etype="discrete" index="3" name="Day of the week" type="discrete" vtype="discrete">
+        <item index="1" value="Sunday" cost="0" description="Sunday">
+        </item>
+        <item index="2" value="Monday" cost="0" description="Monday">
+        </item>
+        <item index="3" value="Tuesday" cost="0" description="Tuesday">
+        </item>
+        <item index="4" value="Wednesday" cost="0" description="Wednesday">
+        </item>
+        <item index="5" value="Thursday" cost="0" description="Thursday">
+        </item>
+        <item index="6" value="Friday" cost="0" description="Friday">
+        </item>
+        <item index="7" value="Saturday" cost="0" description="Saturday">
+        </item>
+    </issue>
+    <issue etype="discrete" index="4" name="Place" type="discrete" vtype="discrete">
+        <item index="1" value="Japan" cost="0" description="Japan">
+        </item>
+        <item index="2" value="America" cost="0" description="America">
+        </item>
+        <item index="3" value="France" cost="0" description="France">
+        </item>
+        <item index="4" value="Italy" cost="0" description="Italy">
+        </item>
+        <item index="5" value="Austria" cost="0" description="Austria">
+        </item>
+        <item index="6" value="Germany" cost="0" description="Germany">
+        </item>
+    </issue>
+</objective>
+</utility_space>
+</negotiation_template>

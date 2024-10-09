@@ -1,0 +1,64 @@
+<negotiation_template>
+<utility_space number_of_issues="6">
+<objective description="" etype="objective" index="0" name="root" type="objective">
+    <issue etype="discrete" index="1" name="Food" type="discrete" vtype="discrete">
+        <item index="1" value="Chips and Nuts" cost="0" description="Chips and Nuts">
+        </item>
+        <item index="2" value="Finger-Food" cost="0" description="Finger-Food">
+        </item>
+        <item index="3" value="Handmade Food" cost="0" description="Handmade Food">
+        </item>
+        <item index="4" value="Catering" cost="0" description="Catering">
+        </item>
+    </issue>
+    <issue etype="discrete" index="2" name="Drinks" type="discrete" vtype="discrete">
+        <item index="1" value="Non-Alcoholic" cost="0" description="Non-Alcoholic">
+        </item>
+        <item index="2" value="Beer Only" cost="0" description="Beer Only">
+        </item>
+        <item index="3" value="Handmade Cocktails" cost="0" description="Handmade Cocktails">
+        </item>
+        <item index="4" value="Catering" cost="0" description="Catering">
+        </item>
+    </issue>
+    <issue etype="discrete" index="3" name="Location" type="discrete" vtype="discrete">
+        <item index="1" value="Party Tent" cost="0" description="Party Tent">
+        </item>
+        <item index="2" value="Your Dorm" cost="0" description="Your Dorm">
+        </item>
+        <item index="3" value="Party Room" cost="0" description="Party Room">
+        </item>
+        <item index="4" value="Ballroom" cost="0" description="Ballroom">
+        </item>
+    </issue>
+    <issue etype="discrete" index="4" name="Invitations" type="discrete" vtype="discrete">
+        <item index="1" value="Plain" cost="0" description="Plain">
+        </item>
+        <item index="2" value="Photo" cost="0" description="Photo">
+        </item>
+        <item index="3" value="Custom, Handmade" cost="0" description="Custom, Handmade">
+        </item>
+        <item index="4" value="Custom, Printed" cost="0" description="Custom, Printed">
+        </item>
+    </issue>
+    <issue etype="discrete" index="5" name="Music" type="discrete" vtype="discrete">
+        <item index="1" value="MP3" cost="0" description="MP3">
+        </item>
+        <item index="2" value="DJ" cost="0" description="DJ">
+        </item>
+        <item index="3" value="Band" cost="0" description="Band">
+        </item>
+    </issue>
+    <issue etype="discrete" index="6" name="Cleanup" type="discrete" vtype="discrete">
+        <item index="1" value="Water and Soap" cost="0" description="Water and Soap">
+        </item>
+        <item index="2" value="Specialized Materials" cost="0" description="Specialized Materials">
+        </item>
+        <item index="3" value="Special Equiment" cost="0" description="Special Equiment">
+        </item>
+        <item index="4" value="Hired Help" cost="0" description="Hired Help">
+        </item>
+    </issue>
+</objective>
+</utility_space>
+</negotiation_template>

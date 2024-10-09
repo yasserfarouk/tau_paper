@@ -1,0 +1,44 @@
+<negotiation_template>
+<utility_space number_of_issues="4">
+<objective description="" etype="objective" index="0" name="root" type="objective">
+    <issue etype="discrete" index="1" name="FilmGenre" type="discrete" vtype="discrete">
+        <item index="1" value="Thriller" cost="0" description="Thriller">
+        </item>
+        <item index="2" value="Comedy" cost="0" description="Comedy">
+        </item>
+        <item index="3" value="Adventure" cost="0" description="Adventure">
+        </item>
+        <item index="4" value="Documentary" cost="0" description="Documentary">
+        </item>
+        <item index="5" value="FilmNoir" cost="0" description="FilmNoir">
+        </item>
+        <item index="6" value="Animation" cost="0" description="Animation">
+        </item>
+    </issue>
+    <issue etype="discrete" index="2" name="Place" type="discrete" vtype="discrete">
+        <item index="1" value="Home" cost="0" description="Home">
+        </item>
+        <item index="2" value="Cinema" cost="0" description="Cinema">
+        </item>
+    </issue>
+    <issue etype="discrete" index="3" name="Transportation" type="discrete" vtype="discrete">
+        <item index="1" value="Car" cost="0" description="Car">
+        </item>
+        <item index="2" value="Bus" cost="0" description="Bus">
+        </item>
+        <item index="3" value="Taxi" cost="0" description="Taxi">
+        </item>
+    </issue>
+    <issue etype="discrete" index="4" name="Snack" type="discrete" vtype="discrete">
+        <item index="1" value="PopCorn" cost="0" description="PopCorn">
+        </item>
+        <item index="2" value="Nachos" cost="0" description="Nachos">
+        </item>
+        <item index="3" value="IceCream" cost="0" description="IceCream">
+        </item>
+        <item index="4" value="MilkShake" cost="0" description="MilkShake">
+        </item>
+    </issue>
+</objective>
+</utility_space>
+</negotiation_template>

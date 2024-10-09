@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+# generates all figures
+# dst="$HOME/code/papers/current/2024aaai/AnonymousSubmission/LaTeX/results/"
+dst="figs/ijcai/"
+mkdir -p "$dst"
+python src/helpers/scalability.py serverclean/final/y0/final0.csv --timelimit --rounds --verbose --line-plot --no-show --output="${dst}/scalability"
+python src/helpers/scalability.py serverclean/final/y0/final0.csv --timelimit --rounds --verbose --line-plot --no-show --output="${dst}/scalability" --condition="Session Type"
+# python src/helpers/scalability.py serverclean/final/y0/final0.csv --no-timelimit --verbose --line-plot --no-show --output="${dst}/scalability"
+# python src/helpers/scalability.py serverclean/final/y0/final0.csv --no-rounds --no-show --verbose --line-plot --output="${dst}/scalability"
+# python src/helpers/scalability.py serverclean/final/y0/final0.csv --no-timelimit --verbose --no-line-plot --no-show --output="${dst}/scalability"
+# python src/helpers/scalability.py serverclean/final/y0/final0.csv --no-rounds --no-show --verbose --no-line-plot --output="${dst}/scalability"
+# python src/helpers/scalability.py serverclean/final/y0/final0.csv --no-timelimit --verbose --line-plot --no-show --output="${dst}/scalability" --condition="Session Type"
+# python src/helpers/scalability.py serverclean/final/y0/final0.csv --no-rounds --no-show --verbose --line-plot --output="${dst}/scalability" --condition="Session Type"
+# python src/helpers/scalability.py serverclean/final/y0/final0.csv --no-timelimit --verbose --no-line-plot --no-show --output="${dst}/scalability" --condition="Session Type"
+# python src/helpers/scalability.py serverclean/final/y0/final0.csv --no-rounds --no-show --verbose --no-line-plot --output="${dst}/scalability" --condition="Session Type"

@@ -1,0 +1,46 @@
+<utility_space type="any" number_of_issues="5">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="type">
+    <item index="1" value="swimming" evaluation="1.0" />
+    <item index="2" value="yoga" evaluation="0.535423925667828" />
+    <item index="3" value="aerobics" evaluation="0.30313588850174217" />
+    <item index="4" value="running" evaluation="-0.045296167247386755" />
+    <item index="5" value="tennis" evaluation="0.7677119628339141" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="duration">
+    <item index="1" value="30 min" evaluation="0.01277584204413471" />
+    <item index="2" value="1 hour" evaluation="0.7096399535423925" />
+    <item index="3" value="3 hours" evaluation="1.0" />
+    <item index="4" value="5 hours" evaluation="0.41927990708478513" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="distance">
+    <item index="1" value="0 km" evaluation="1.0" />
+    <item index="2" value="1 km" evaluation="0.7096399535423925" />
+    <item index="3" value="5 km" evaluation="0.18699186991869915" />
+    <item index="4" value="40 km" evaluation="-0.045296167247386755" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="intensity">
+    <item index="1" value="light" evaluation="1.0" />
+    <item index="2" value="moderate" evaluation="0.6515679442508711" />
+    <item index="3" value="training" evaluation="0.30313588850174217" />
+    <item index="4" value="bootcamp" evaluation="0.07084785133565621" />
+</issue>
+<issue index="5" etype="discrete" type="discrete" vtype="discrete" name="price">
+    <item index="1" value="$5" evaluation="0.04761904761904762" />
+    <item index="2" value="$15" evaluation="0.2218350754936121" />
+    <item index="3" value="$50" evaluation="0.6747967479674797" />
+    <item index="4" value="$200" evaluation="1.0" />
+</issue>
+<weight index="1" value="0.3">
+</weight>
+<weight index="2" value="0.1">
+</weight>
+<weight index="3" value="0.2">
+</weight>
+<weight index="4" value="0.1">
+</weight>
+<weight index="5" value="0.3">
+</weight>
+</objective>
+<reservation value="0.046457607433217175" />
+</utility_space>

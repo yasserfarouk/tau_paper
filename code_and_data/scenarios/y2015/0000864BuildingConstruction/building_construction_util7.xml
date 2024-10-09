@@ -1,0 +1,48 @@
+<utility_space type="any" number_of_issues="6">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="yard_size">
+    <item index="1" value="large" evaluation="1.0406498898715684" />
+    <item index="2" value="medium" evaluation="0.17603144474114604" />
+    <item index="3" value="small" evaluation="-0.0401231665414595" />
+    <item index="4" value="none" evaluation="-0.0401231665414595" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="windows">
+    <item index="1" value="single glazing" evaluation="0.17603144474114604" />
+    <item index="2" value="double glazing" evaluation="1.0406498898715684" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="architecture_style">
+    <item index="1" value="modern" evaluation="1.0406498898715684" />
+    <item index="2" value="common" evaluation="-0.0401231665414595" />
+    <item index="3" value="old_fashioned" evaluation="0.7164179729476599" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="mortgage_needed">
+    <item index="1" value="small" evaluation="-0.0401231665414595" />
+    <item index="2" value="medium" evaluation="-0.0401231665414595" />
+    <item index="3" value="large" evaluation="-0.0401231665414595" />
+</issue>
+<issue index="5" etype="discrete" type="discrete" vtype="discrete" name="construction_time">
+    <item index="1" value="short" evaluation="1.0406498898715684" />
+    <item index="2" value="medium" evaluation="0.3921860560237516" />
+    <item index="3" value="long" evaluation="0.06795413909984328" />
+</issue>
+<issue index="6" etype="discrete" type="discrete" vtype="discrete" name="internet_connection">
+    <item index="1" value="satellite" evaluation="0.06795413909984328" />
+    <item index="2" value="phone_line" evaluation="0.06795413909984328" />
+    <item index="3" value="cable" evaluation="0.2841087503824488" />
+    <item index="4" value="fiberglass" evaluation="0.5002633616650544" />
+</issue>
+<weight index="1" value="0.29901540651989583">
+</weight>
+<weight index="2" value="0.0724352489311665">
+</weight>
+<weight index="3" value="0.40216508897085324">
+</weight>
+<weight index="4" value="9.686741363510055e-06">
+</weight>
+<weight index="5" value="0.15117021310014073">
+</weight>
+<weight index="6" value="0.07520435573658031">
+</weight>
+</objective>
+<reservation value="-0.0401231665414595" />
+</utility_space>

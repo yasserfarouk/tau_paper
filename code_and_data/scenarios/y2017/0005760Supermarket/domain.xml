@@ -1,0 +1,74 @@
+<negotiation_template>
+<utility_space number_of_issues="5">
+<objective description="" etype="objective" index="0" name="root" type="objective">
+    <issue etype="discrete" index="1" name="Fruit" type="discrete" vtype="discrete">
+        <item index="1" value="Apricots" cost="0" description="Apricots">
+        </item>
+        <item index="2" value="Cherries" cost="0" description="Cherries">
+        </item>
+        <item index="3" value="Coconuts" cost="0" description="Coconuts">
+        </item>
+        <item index="4" value="Mangoes" cost="0" description="Mangoes">
+        </item>
+        <item index="5" value="Oranges" cost="0" description="Oranges">
+        </item>
+        <item index="6" value="Peaches" cost="0" description="Peaches">
+        </item>
+        <item index="7" value="Pears" cost="0" description="Pears">
+        </item>
+        <item index="8" value="Strawberries" cost="0" description="Strawberries">
+        </item>
+    </issue>
+    <issue etype="discrete" index="2" name="Snacks" type="discrete" vtype="discrete">
+        <item index="1" value="Candy bars" cost="0" description="Candy bars">
+        </item>
+        <item index="2" value="Cookies" cost="0" description="Cookies">
+        </item>
+        <item index="3" value="Doughnuts" cost="0" description="Doughnuts">
+        </item>
+        <item index="4" value="Mixed-nuts" cost="0" description="Mixed-nuts">
+        </item>
+        <item index="5" value="Popcorn" cost="0" description="Popcorn">
+        </item>
+        <item index="6" value="Potato Chips" cost="0" description="Potato Chips">
+        </item>
+    </issue>
+    <issue etype="discrete" index="3" name="Spreads" type="discrete" vtype="discrete">
+        <item index="1" value="Butter" cost="0" description="Butter">
+        </item>
+        <item index="2" value="Cheese" cost="0" description="Cheese">
+        </item>
+        <item index="3" value="Chocolate" cost="0" description="Chocolate">
+        </item>
+        <item index="4" value="Honey" cost="0" description="Honey">
+        </item>
+        <item index="5" value="Jam" cost="0" description="Jam">
+        </item>
+    </issue>
+    <issue etype="discrete" index="4" name="Vegetables" type="discrete" vtype="discrete">
+        <item index="1" value="Cabbage" cost="0" description="Cabbage">
+        </item>
+        <item index="2" value="Carrots" cost="0" description="Carrots">
+        </item>
+        <item index="3" value="Eggplants" cost="0" description="Eggplants">
+        </item>
+        <item index="4" value="Lettuce" cost="0" description="Lettuce">
+        </item>
+        <item index="5" value="Potatoes" cost="0" description="Potatoes">
+        </item>
+        <item index="6" value="Tomatos" cost="0" description="Tomatos">
+        </item>
+    </issue>
+    <issue etype="discrete" index="5" name="Drinks" type="discrete" vtype="discrete">
+        <item index="1" value="Coca Cola" cost="0" description="Coca Cola">
+        </item>
+        <item index="2" value="Energy-Drinks" cost="0" description="Energy-Drinks">
+        </item>
+        <item index="3" value="Juice" cost="0" description="Juice">
+        </item>
+        <item index="4" value="Nescafe" cost="0" description="Nescafe">
+        </item>
+    </issue>
+</objective>
+</utility_space>
+</negotiation_template>

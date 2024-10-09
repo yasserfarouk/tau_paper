@@ -1,0 +1,77 @@
+<utility_space type="any" number_of_issues="4">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="issueA">
+    <item index="1" value="valueA" evaluation="0.03238" />
+    <item index="2" value="valueB" evaluation="0.56888" />
+    <item index="3" value="valueC" evaluation="1.0" />
+    <item index="4" value="valueD" evaluation="0.30568" />
+    <item index="5" value="valueE" evaluation="0.0" />
+    <item index="6" value="valueF" evaluation="0.88443" />
+    <item index="7" value="valueG" evaluation="0.96675" />
+    <item index="8" value="valueH" evaluation="0.09141" />
+    <item index="9" value="valueI" evaluation="0.57332" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="issueB">
+    <item index="1" value="valueA" evaluation="1.0" />
+    <item index="2" value="valueB" evaluation="0.0" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="issueC">
+    <item index="1" value="valueA" evaluation="0.185" />
+    <item index="2" value="valueB" evaluation="0.0" />
+    <item index="3" value="valueC" evaluation="0.41128" />
+    <item index="4" value="valueD" evaluation="0.68" />
+    <item index="5" value="valueE" evaluation="0.0953" />
+    <item index="6" value="valueF" evaluation="0.27293" />
+    <item index="7" value="valueG" evaluation="0.10951" />
+    <item index="8" value="valueH" evaluation="0.16894" />
+    <item index="9" value="valueI" evaluation="0.43701" />
+    <item index="10" value="valueJ" evaluation="0.09707" />
+    <item index="11" value="valueK" evaluation="0.03975" />
+    <item index="12" value="valueL" evaluation="0.123" />
+    <item index="13" value="valueM" evaluation="0.13182" />
+    <item index="14" value="valueN" evaluation="0.5566" />
+    <item index="15" value="valueO" evaluation="0.2133" />
+    <item index="16" value="valueP" evaluation="0.03159" />
+    <item index="17" value="valueQ" evaluation="0.09049" />
+    <item index="18" value="valueR" evaluation="1.0" />
+    <item index="19" value="valueS" evaluation="0.6929" />
+    <item index="20" value="valueT" evaluation="0.15703" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="issueD">
+    <item index="1" value="valueA" evaluation="0.01535" />
+    <item index="2" value="valueB" evaluation="0.23622" />
+    <item index="3" value="valueC" evaluation="0.34248" />
+    <item index="4" value="valueD" evaluation="0.36612" />
+    <item index="5" value="valueE" evaluation="0.0946" />
+    <item index="6" value="valueF" evaluation="0.0135" />
+    <item index="7" value="valueG" evaluation="0.35968" />
+    <item index="8" value="valueH" evaluation="1.0" />
+    <item index="9" value="valueI" evaluation="0.09428" />
+    <item index="10" value="valueJ" evaluation="0.25476" />
+    <item index="11" value="valueK" evaluation="0.05243" />
+    <item index="12" value="valueL" evaluation="0.46843" />
+    <item index="13" value="valueM" evaluation="0.2566" />
+    <item index="14" value="valueN" evaluation="0.00764" />
+    <item index="15" value="valueO" evaluation="0.2638" />
+    <item index="16" value="valueP" evaluation="0.98827" />
+    <item index="17" value="valueQ" evaluation="0.02809" />
+    <item index="18" value="valueR" evaluation="0.06542" />
+    <item index="19" value="valueS" evaluation="0.44791" />
+    <item index="20" value="valueT" evaluation="0.03739" />
+    <item index="21" value="valueU" evaluation="0.08734" />
+    <item index="22" value="valueV" evaluation="0.16684" />
+    <item index="23" value="valueW" evaluation="0.01694" />
+    <item index="24" value="valueX" evaluation="0.0" />
+    <item index="25" value="valueY" evaluation="0.18003" />
+</issue>
+<weight index="1" value="0.03781">
+</weight>
+<weight index="2" value="0.83404">
+</weight>
+<weight index="3" value="0.01235">
+</weight>
+<weight index="4" value="0.1158">
+</weight>
+</objective>
+<reservation value="0.0" />
+</utility_space>

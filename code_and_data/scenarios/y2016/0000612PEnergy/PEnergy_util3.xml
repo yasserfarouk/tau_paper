@@ -1,0 +1,47 @@
+<utility_space type="any" number_of_issues="3">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Price">
+    <item index="1" value="10" evaluation="0.14136517447314367" />
+    <item index="2" value="20" evaluation="0.29536319180899745" />
+    <item index="3" value="40" evaluation="0.44936120914485134" />
+    <item index="4" value="50" evaluation="1.0653532784882667" />
+    <item index="5" value="60" evaluation="0.9113552611524126" />
+    <item index="6" value="70" evaluation="0.6033592264807051" />
+    <item index="7" value="80" evaluation="0.44936120914485134" />
+    <item index="8" value="90" evaluation="0.29536319180899745" />
+    <item index="9" value="100" evaluation="-0.01263284286271017" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Size">
+    <item index="1" value="10kW" evaluation="0.14136517447314367" />
+    <item index="2" value="20kW" evaluation="0.1721647779403144" />
+    <item index="3" value="30kW" evaluation="0.20296438140748524" />
+    <item index="4" value="35kW" evaluation="0.24916378660824137" />
+    <item index="5" value="40kW" evaluation="0.29536319180899745" />
+    <item index="6" value="55kW" evaluation="0.44936120914485134" />
+    <item index="7" value="60kW" evaluation="0.5263602178127782" />
+    <item index="8" value="70kW" evaluation="0.6033592264807051" />
+    <item index="9" value="75kW" evaluation="0.757357243816559" />
+    <item index="10" value="80kW" evaluation="0.757357243816559" />
+    <item index="11" value="85kW" evaluation="0.6033592264807051" />
+    <item index="12" value="90kW" evaluation="0.44936120914485134" />
+    <item index="13" value="95kW" evaluation="0.37236220047692437" />
+    <item index="14" value="100kW" evaluation="0.29536319180899745" />
+    <item index="15" value="120kW" evaluation="0.2183641831410706" />
+    <item index="16" value="150kW" evaluation="0.18756457967389978" />
+    <item index="17" value="300kW" evaluation="0.14136517447314367" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Transfer">
+    <item index="1" value="method1" evaluation="-0.16663086019856396" />
+    <item index="2" value="method2" evaluation="-0.24362986886649088" />
+    <item index="3" value="method3" evaluation="-0.01263284286271017" />
+    <item index="4" value="method4" evaluation="-0.08963185153063703" />
+</issue>
+<weight index="1" value="0.8528893978939088">
+</weight>
+<weight index="2" value="0.12107936257693581">
+</weight>
+<weight index="3" value="0.026031239529155273">
+</weight>
+</objective>
+<reservation value="-0.3206288775344177" />
+</utility_space>

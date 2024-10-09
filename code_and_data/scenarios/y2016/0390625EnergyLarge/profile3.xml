@@ -1,0 +1,77 @@
+<utility_space type="any" number_of_issues="8">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="0000-0300">
+    <item index="1" value="0kW" evaluation="0.0" />
+    <item index="2" value="25kW" evaluation="0.4" />
+    <item index="3" value="50kW" evaluation="0.6000000000000001" />
+    <item index="4" value="75kW" evaluation="0.8" />
+    <item index="5" value="100kW" evaluation="1.0" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="0300-0600">
+    <item index="1" value="0kW" evaluation="0.0" />
+    <item index="2" value="25kW" evaluation="0.4" />
+    <item index="3" value="50kW" evaluation="0.6000000000000001" />
+    <item index="4" value="75kW" evaluation="0.8" />
+    <item index="5" value="100kW" evaluation="1.0" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="0600-0900">
+    <item index="1" value="0kW" evaluation="0.0" />
+    <item index="2" value="25kW" evaluation="0.4" />
+    <item index="3" value="50kW" evaluation="0.6000000000000001" />
+    <item index="4" value="75kW" evaluation="0.8" />
+    <item index="5" value="100kW" evaluation="1.0" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="0900-1200">
+    <item index="1" value="0kW" evaluation="0.0" />
+    <item index="2" value="25kW" evaluation="0.4" />
+    <item index="3" value="50kW" evaluation="0.6000000000000001" />
+    <item index="4" value="75kW" evaluation="0.8" />
+    <item index="5" value="100kW" evaluation="1.0" />
+</issue>
+<issue index="5" etype="discrete" type="discrete" vtype="discrete" name="1200-1500">
+    <item index="1" value="0kW" evaluation="0.0" />
+    <item index="2" value="25kW" evaluation="0.4" />
+    <item index="3" value="50kW" evaluation="0.6000000000000001" />
+    <item index="4" value="75kW" evaluation="0.8" />
+    <item index="5" value="100kW" evaluation="1.0" />
+</issue>
+<issue index="6" etype="discrete" type="discrete" vtype="discrete" name="1500-1800">
+    <item index="1" value="0kW" evaluation="0.0" />
+    <item index="2" value="25kW" evaluation="0.4" />
+    <item index="3" value="50kW" evaluation="0.6000000000000001" />
+    <item index="4" value="75kW" evaluation="0.8" />
+    <item index="5" value="100kW" evaluation="1.0" />
+</issue>
+<issue index="7" etype="discrete" type="discrete" vtype="discrete" name="1800-2100">
+    <item index="1" value="0kW" evaluation="0.0" />
+    <item index="2" value="25kW" evaluation="0.4" />
+    <item index="3" value="50kW" evaluation="0.6000000000000001" />
+    <item index="4" value="75kW" evaluation="0.8" />
+    <item index="5" value="100kW" evaluation="1.0" />
+</issue>
+<issue index="8" etype="discrete" type="discrete" vtype="discrete" name="2100-0000">
+    <item index="1" value="0kW" evaluation="0.0" />
+    <item index="2" value="25kW" evaluation="0.4" />
+    <item index="3" value="50kW" evaluation="0.6000000000000001" />
+    <item index="4" value="75kW" evaluation="0.8" />
+    <item index="5" value="100kW" evaluation="1.0" />
+</issue>
+<weight index="1" value="0.0233451404160976">
+</weight>
+<weight index="2" value="0.05343240053917455">
+</weight>
+<weight index="3" value="0.10855186022768051">
+</weight>
+<weight index="4" value="0.12949980203141964">
+</weight>
+<weight index="5" value="0.16444770586168042">
+</weight>
+<weight index="6" value="0.221384364666749">
+</weight>
+<weight index="7" value="0.18432648666623544">
+</weight>
+<weight index="8" value="0.11501223959096284">
+</weight>
+</objective>
+<reservation value="0.0" />
+</utility_space>

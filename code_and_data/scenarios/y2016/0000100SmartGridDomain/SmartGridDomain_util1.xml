@@ -1,0 +1,31 @@
+<utility_space type="any" number_of_issues="3">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Price Level">
+    <item index="1" value="Price 1" evaluation="1.0" />
+    <item index="2" value="Price 2" evaluation="0.6250079919911837" />
+    <item index="3" value="Price 3" evaluation="0.2500159839823675" />
+    <item index="4" value="Price 4" evaluation="-0.04997762242468552" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="ContractDuration">
+    <item index="1" value="5 Years" evaluation="0.025020779177077738" />
+    <item index="2" value="2 Years" evaluation="0.2500159839823675" />
+    <item index="3" value="1 Year" evaluation="1.0" />
+    <item index="4" value="6 Months" evaluation="0.6250079919911837" />
+    <item index="5" value="1 Month" evaluation="0.15626798198016342" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="EnergyDelivered">
+    <item index="1" value="Energy Amount 1" evaluation="0.06251997997795937" />
+    <item index="2" value="Energy Amount 2" evaluation="0.43751198798677565" />
+    <item index="3" value="Energy Amount 3" evaluation="1.0" />
+    <item index="4" value="Energy Amount 4" evaluation="0.812503995995592" />
+    <item index="5" value="Energy Amount 5" evaluation="0.2500159839823675" />
+</issue>
+<weight index="1" value="0.5016988328462136">
+</weight>
+<weight index="2" value="0.16213849961335913">
+</weight>
+<weight index="3" value="0.3361626675404272">
+</weight>
+</objective>
+<reservation value="3.469446951953614e-18" />
+</utility_space>

@@ -1,0 +1,51 @@
+<utility_space type="any" number_of_issues="6">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Location">
+    <item index="1" value="Tu Delft" evaluation="0.37039334987771166" />
+    <item index="2" value="Erasumus" evaluation="0.7407866997554234" />
+    <item index="3" value="TU Eindhoven" evaluation="0.0" />
+    <item index="4" value="TU Twente" evaluation="1.111180049633135" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Morning Slot">
+    <item index="1" value="Mr. Bidarra" evaluation="0.7407866997554234" />
+    <item index="2" value="Mr. Eisemann" evaluation="0.37039334987771166" />
+    <item index="3" value="Mr. Bossos" evaluation="1.111180049633135" />
+    <item index="4" value="Mr. Goedeovergeburen" evaluation="0.0" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Afternoon Slot">
+    <item index="1" value="Mr. Talkolot" evaluation="0.37039334987771166" />
+    <item index="2" value="Mr. Ahuff" evaluation="0.0" />
+    <item index="3" value="Miss. Getbizzy" evaluation="0.7407866997554234" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="Evening Slot">
+    <item index="1" value="Mr. Gates" evaluation="0.7407866997554234" />
+    <item index="2" value="Mr. Umbertotan" evaluation="0.37039334987771166" />
+    <item index="3" value="Mr. Han" evaluation="1.111180049633135" />
+    <item index="4" value="Mr. LeeLoo" evaluation="0.0" />
+</issue>
+<issue index="5" etype="discrete" type="discrete" vtype="discrete" name="Drinks">
+    <item index="1" value="Coffee and Thee" evaluation="0.37039334987771166" />
+    <item index="2" value="Alcoholic beverages" evaluation="0.7407866997554234" />
+    <item index="3" value="non-Alcoholic beverages" evaluation="0.0" />
+</issue>
+<issue index="6" etype="discrete" type="discrete" vtype="discrete" name="Date">
+    <item index="1" value="September" evaluation="0.37039334987771166" />
+    <item index="2" value="October" evaluation="0.7407866997554234" />
+    <item index="3" value="November" evaluation="0.0" />
+    <item index="4" value="December" evaluation="1.111180049633135" />
+</issue>
+<weight index="1" value="0.35548226732225413">
+</weight>
+<weight index="2" value="0.34433369250083745">
+</weight>
+<weight index="3" value="0.30015916946261123">
+</weight>
+<weight index="4" value="1.2280898763596574e-05">
+</weight>
+<weight index="5" value="8.340752791023285e-06">
+</weight>
+<weight index="6" value="4.249062742602958e-06">
+</weight>
+</objective>
+<reservation value="-0.37039334987771166" />
+</utility_space>

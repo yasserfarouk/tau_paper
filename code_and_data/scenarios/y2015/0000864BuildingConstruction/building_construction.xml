@@ -1,0 +1,56 @@
+<negotiation_template>
+<utility_space number_of_issues="6">
+<objective description="" etype="objective" index="0" name="root" type="objective">
+    <issue etype="discrete" index="1" name="yard_size" type="discrete" vtype="discrete">
+        <item index="1" value="large" cost="0" description="large">
+        </item>
+        <item index="2" value="medium" cost="0" description="medium">
+        </item>
+        <item index="3" value="small" cost="0" description="small">
+        </item>
+        <item index="4" value="none" cost="0" description="none">
+        </item>
+    </issue>
+    <issue etype="discrete" index="2" name="windows" type="discrete" vtype="discrete">
+        <item index="1" value="single glazing" cost="0" description="single glazing">
+        </item>
+        <item index="2" value="double glazing" cost="0" description="double glazing">
+        </item>
+    </issue>
+    <issue etype="discrete" index="3" name="architecture_style" type="discrete" vtype="discrete">
+        <item index="1" value="modern" cost="0" description="modern">
+        </item>
+        <item index="2" value="common" cost="0" description="common">
+        </item>
+        <item index="3" value="old_fashioned" cost="0" description="old_fashioned">
+        </item>
+    </issue>
+    <issue etype="discrete" index="4" name="mortgage_needed" type="discrete" vtype="discrete">
+        <item index="1" value="small" cost="0" description="small">
+        </item>
+        <item index="2" value="medium" cost="0" description="medium">
+        </item>
+        <item index="3" value="large" cost="0" description="large">
+        </item>
+    </issue>
+    <issue etype="discrete" index="5" name="construction_time" type="discrete" vtype="discrete">
+        <item index="1" value="short" cost="0" description="short">
+        </item>
+        <item index="2" value="medium" cost="0" description="medium">
+        </item>
+        <item index="3" value="long" cost="0" description="long">
+        </item>
+    </issue>
+    <issue etype="discrete" index="6" name="internet_connection" type="discrete" vtype="discrete">
+        <item index="1" value="satellite" cost="0" description="satellite">
+        </item>
+        <item index="2" value="phone_line" cost="0" description="phone_line">
+        </item>
+        <item index="3" value="cable" cost="0" description="cable">
+        </item>
+        <item index="4" value="fiberglass" cost="0" description="fiberglass">
+        </item>
+    </issue>
+</objective>
+</utility_space>
+</negotiation_template>

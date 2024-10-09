@@ -1,0 +1,47 @@
+<utility_space type="any" number_of_issues="5">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Location">
+    <item index="1" value="Paris" evaluation="1.079989808217266" />
+    <item index="2" value="Rome" evaluation="0.04532523158634659" />
+    <item index="3" value="London" evaluation="1.4248780004275725" />
+    <item index="4" value="Istanbul" evaluation="0.7351016160069596" />
+    <item index="5" value="Dubai" evaluation="0.39021342379665314" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Travel">
+    <item index="1" value="Car" evaluation="1.079989808217266" />
+    <item index="2" value="Boat" evaluation="0.04532523158634659" />
+    <item index="3" value="Train" evaluation="0.7351016160069596" />
+    <item index="4" value="Airplane" evaluation="0.39021342379665314" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Duration (weeks)">
+    <item index="1" value="1" evaluation="-0.023652406855714705" />
+    <item index="2" value="2" evaluation="-0.092630045297776" />
+    <item index="3" value="3" evaluation="-0.1616076837398373" />
+    <item index="4" value="4" evaluation="-0.23058532218189862" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="Activities">
+    <item index="1" value="Walking" evaluation="0.39021342379665314" />
+    <item index="2" value="Sightseeing" evaluation="1.079989808217266" />
+    <item index="3" value="Beach" evaluation="0.7351016160069596" />
+    <item index="4" value="Nothing" evaluation="0.04532523158634659" />
+</issue>
+<issue index="5" etype="discrete" type="discrete" vtype="discrete" name="Sleeping">
+    <item index="1" value="Hotel" evaluation="1.4248780004275725" />
+    <item index="2" value="Appartment" evaluation="1.079989808217266" />
+    <item index="3" value="Hostel" evaluation="0.7351016160069596" />
+    <item index="4" value="Cabin" evaluation="0.39021342379665314" />
+    <item index="5" value="Camping" evaluation="0.04532523158634659" />
+</issue>
+<weight index="1" value="0.23572398754388596">
+</weight>
+<weight index="2" value="0.3317582880250621">
+</weight>
+<weight index="3" value="0.1642750919358385">
+</weight>
+<weight index="4" value="0.2102160063145714">
+</weight>
+<weight index="5" value="0.05802662618064202">
+</weight>
+</objective>
+<reservation value="-0.2995629606239599" />
+</utility_space>

@@ -1,0 +1,94 @@
+<negotiation_template>
+<utility_space number_of_issues="4">
+<objective description="" etype="objective" index="0" name="root" type="objective">
+    <issue etype="discrete" index="1" name="Spade" type="discrete" vtype="discrete">
+        <item index="1" value="s1" cost="0" description="s1">
+        </item>
+        <item index="2" value="s2" cost="0" description="s2">
+        </item>
+        <item index="3" value="s3" cost="0" description="s3">
+        </item>
+        <item index="4" value="s4" cost="0" description="s4">
+        </item>
+        <item index="5" value="s5" cost="0" description="s5">
+        </item>
+        <item index="6" value="s6" cost="0" description="s6">
+        </item>
+        <item index="7" value="s7" cost="0" description="s7">
+        </item>
+        <item index="8" value="s8" cost="0" description="s8">
+        </item>
+        <item index="9" value="s9" cost="0" description="s9">
+        </item>
+        <item index="10" value="s10" cost="0" description="s10">
+        </item>
+    </issue>
+    <issue etype="discrete" index="2" name="Heart" type="discrete" vtype="discrete">
+        <item index="1" value="h1" cost="0" description="h1">
+        </item>
+        <item index="2" value="h2" cost="0" description="h2">
+        </item>
+        <item index="3" value="h3" cost="0" description="h3">
+        </item>
+        <item index="4" value="h4" cost="0" description="h4">
+        </item>
+        <item index="5" value="h5" cost="0" description="h5">
+        </item>
+        <item index="6" value="h6" cost="0" description="h6">
+        </item>
+        <item index="7" value="h7" cost="0" description="h7">
+        </item>
+        <item index="8" value="h8" cost="0" description="h8">
+        </item>
+        <item index="9" value="h9" cost="0" description="h9">
+        </item>
+        <item index="10" value="h10" cost="0" description="h10">
+        </item>
+    </issue>
+    <issue etype="discrete" index="3" name="Club" type="discrete" vtype="discrete">
+        <item index="1" value="c1" cost="0" description="c1">
+        </item>
+        <item index="2" value="c2" cost="0" description="c2">
+        </item>
+        <item index="3" value="c3" cost="0" description="c3">
+        </item>
+        <item index="4" value="c4" cost="0" description="c4">
+        </item>
+        <item index="5" value="c5" cost="0" description="c5">
+        </item>
+        <item index="6" value="c6" cost="0" description="c6">
+        </item>
+        <item index="7" value="c7" cost="0" description="c7">
+        </item>
+        <item index="8" value="c8" cost="0" description="c8">
+        </item>
+        <item index="9" value="c9" cost="0" description="c9">
+        </item>
+        <item index="10" value="c10" cost="0" description="c10">
+        </item>
+    </issue>
+    <issue etype="discrete" index="4" name="Diamond" type="discrete" vtype="discrete">
+        <item index="1" value="d1" cost="0" description="d1">
+        </item>
+        <item index="2" value="d2" cost="0" description="d2">
+        </item>
+        <item index="3" value="d3" cost="0" description="d3">
+        </item>
+        <item index="4" value="d4" cost="0" description="d4">
+        </item>
+        <item index="5" value="d5" cost="0" description="d5">
+        </item>
+        <item index="6" value="d6" cost="0" description="d6">
+        </item>
+        <item index="7" value="d7" cost="0" description="d7">
+        </item>
+        <item index="8" value="d8" cost="0" description="d8">
+        </item>
+        <item index="9" value="d9" cost="0" description="d9">
+        </item>
+        <item index="10" value="d10" cost="0" description="d10">
+        </item>
+    </issue>
+</objective>
+</utility_space>
+</negotiation_template>

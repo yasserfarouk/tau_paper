@@ -1,0 +1,77 @@
+<utility_space type="any" number_of_issues="4">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="issueA">
+    <item index="1" value="valueA" evaluation="0.49557" />
+    <item index="2" value="valueB" evaluation="0.83558" />
+    <item index="3" value="valueC" evaluation="1.0" />
+    <item index="4" value="valueD" evaluation="0.84747" />
+    <item index="5" value="valueE" evaluation="0.12482" />
+    <item index="6" value="valueF" evaluation="0.64149" />
+    <item index="7" value="valueG" evaluation="0.02655" />
+    <item index="8" value="valueH" evaluation="0.00466" />
+    <item index="9" value="valueI" evaluation="0.0" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="issueB">
+    <item index="1" value="valueA" evaluation="1.0" />
+    <item index="2" value="valueB" evaluation="0.0" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="issueC">
+    <item index="1" value="valueA" evaluation="0.06646" />
+    <item index="2" value="valueB" evaluation="0.0" />
+    <item index="3" value="valueC" evaluation="0.26773" />
+    <item index="4" value="valueD" evaluation="0.23187" />
+    <item index="5" value="valueE" evaluation="0.15035" />
+    <item index="6" value="valueF" evaluation="0.04984" />
+    <item index="7" value="valueG" evaluation="0.26398" />
+    <item index="8" value="valueH" evaluation="0.28744" />
+    <item index="9" value="valueI" evaluation="0.09659" />
+    <item index="10" value="valueJ" evaluation="0.0006" />
+    <item index="11" value="valueK" evaluation="0.00779" />
+    <item index="12" value="valueL" evaluation="0.26063" />
+    <item index="13" value="valueM" evaluation="0.47017" />
+    <item index="14" value="valueN" evaluation="0.09086" />
+    <item index="15" value="valueO" evaluation="0.64234" />
+    <item index="16" value="valueP" evaluation="1.0" />
+    <item index="17" value="valueQ" evaluation="0.09052" />
+    <item index="18" value="valueR" evaluation="0.08458" />
+    <item index="19" value="valueS" evaluation="0.12504" />
+    <item index="20" value="valueT" evaluation="0.02246" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="issueD">
+    <item index="1" value="valueA" evaluation="0.01898" />
+    <item index="2" value="valueB" evaluation="0.03194" />
+    <item index="3" value="valueC" evaluation="0.04774" />
+    <item index="4" value="valueD" evaluation="0.12397" />
+    <item index="5" value="valueE" evaluation="0.02296" />
+    <item index="6" value="valueF" evaluation="0.02123" />
+    <item index="7" value="valueG" evaluation="0.0" />
+    <item index="8" value="valueH" evaluation="0.07795" />
+    <item index="9" value="valueI" evaluation="0.58747" />
+    <item index="10" value="valueJ" evaluation="0.17275" />
+    <item index="11" value="valueK" evaluation="0.09722" />
+    <item index="12" value="valueL" evaluation="0.04854" />
+    <item index="13" value="valueM" evaluation="0.08553" />
+    <item index="14" value="valueN" evaluation="0.3079" />
+    <item index="15" value="valueO" evaluation="0.39779" />
+    <item index="16" value="valueP" evaluation="0.18505" />
+    <item index="17" value="valueQ" evaluation="0.3311" />
+    <item index="18" value="valueR" evaluation="0.10873" />
+    <item index="19" value="valueS" evaluation="0.24552" />
+    <item index="20" value="valueT" evaluation="0.22625" />
+    <item index="21" value="valueU" evaluation="0.16396" />
+    <item index="22" value="valueV" evaluation="0.1221" />
+    <item index="23" value="valueW" evaluation="1.0" />
+    <item index="24" value="valueX" evaluation="0.03035" />
+    <item index="25" value="valueY" evaluation="0.01861" />
+</issue>
+<weight index="1" value="0.07408">
+</weight>
+<weight index="2" value="0.06963">
+</weight>
+<weight index="3" value="0.60774">
+</weight>
+<weight index="4" value="0.24855">
+</weight>
+</objective>
+<reservation value="0.0" />
+</utility_space>

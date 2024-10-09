@@ -1,0 +1,66 @@
+<negotiation_template>
+<utility_space number_of_issues="6">
+<objective description="" etype="objective" index="0" name="root" type="objective">
+    <issue etype="discrete" index="1" name="issueA" type="discrete" vtype="discrete">
+        <item index="1" value="valueA" cost="0" description="valueA">
+        </item>
+        <item index="2" value="valueB" cost="0" description="valueB">
+        </item>
+        <item index="3" value="valueC" cost="0" description="valueC">
+        </item>
+        <item index="4" value="valueD" cost="0" description="valueD">
+        </item>
+        <item index="5" value="valueE" cost="0" description="valueE">
+        </item>
+        <item index="6" value="valueF" cost="0" description="valueF">
+        </item>
+        <item index="7" value="valueG" cost="0" description="valueG">
+        </item>
+        <item index="8" value="valueH" cost="0" description="valueH">
+        </item>
+    </issue>
+    <issue etype="discrete" index="2" name="issueB" type="discrete" vtype="discrete">
+        <item index="1" value="valueA" cost="0" description="valueA">
+        </item>
+        <item index="2" value="valueB" cost="0" description="valueB">
+        </item>
+        <item index="3" value="valueC" cost="0" description="valueC">
+        </item>
+        <item index="4" value="valueD" cost="0" description="valueD">
+        </item>
+    </issue>
+    <issue etype="discrete" index="3" name="issueC" type="discrete" vtype="discrete">
+        <item index="1" value="valueA" cost="0" description="valueA">
+        </item>
+        <item index="2" value="valueB" cost="0" description="valueB">
+        </item>
+    </issue>
+    <issue etype="discrete" index="4" name="issueD" type="discrete" vtype="discrete">
+        <item index="1" value="valueA" cost="0" description="valueA">
+        </item>
+        <item index="2" value="valueB" cost="0" description="valueB">
+        </item>
+        <item index="3" value="valueC" cost="0" description="valueC">
+        </item>
+        <item index="4" value="valueD" cost="0" description="valueD">
+        </item>
+        <item index="5" value="valueE" cost="0" description="valueE">
+        </item>
+        <item index="6" value="valueF" cost="0" description="valueF">
+        </item>
+    </issue>
+    <issue etype="discrete" index="5" name="issueE" type="discrete" vtype="discrete">
+        <item index="1" value="valueA" cost="0" description="valueA">
+        </item>
+        <item index="2" value="valueB" cost="0" description="valueB">
+        </item>
+    </issue>
+    <issue etype="discrete" index="6" name="issueF" type="discrete" vtype="discrete">
+        <item index="1" value="valueA" cost="0" description="valueA">
+        </item>
+        <item index="2" value="valueB" cost="0" description="valueB">
+        </item>
+    </issue>
+</objective>
+</utility_space>
+</negotiation_template>

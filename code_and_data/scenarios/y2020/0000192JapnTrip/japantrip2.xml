@@ -1,0 +1,36 @@
+<utility_space type="any" number_of_issues="4">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="place">
+    <item index="1" value="Tokyo" evaluation="0.761904761904762" />
+    <item index="2" value="Osaka" evaluation="1.0" />
+    <item index="3" value="Negoya" evaluation="0.28571428571428575" />
+    <item index="4" value="Hokkaido" evaluation="-0.07142857142857142" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="budget">
+    <item index="1" value="900" evaluation="0.04761904761904763" />
+    <item index="2" value="1800" evaluation="-0.07142857142857142" />
+    <item index="3" value="300" evaluation="0.8809523809523809" />
+    <item index="4" value="100" evaluation="1.0" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="days">
+    <item index="1" value="3" evaluation="0.10714285714285714" />
+    <item index="2" value="4" evaluation="0.7023809523809523" />
+    <item index="3" value="5" evaluation="1.0" />
+    <item index="4" value="6" evaluation="1.0" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="purpose">
+    <item index="1" value="Sightseeing" evaluation="0.04761904761904763" />
+    <item index="2" value="Activity" evaluation="1.0" />
+    <item index="3" value="Shopping" evaluation="0.40476190476190477" />
+</issue>
+<weight index="1" value="0.4">
+</weight>
+<weight index="2" value="0.1">
+</weight>
+<weight index="3" value="0.2">
+</weight>
+<weight index="4" value="0.3">
+</weight>
+</objective>
+<reservation value="0.011904761904761906" />
+</utility_space>

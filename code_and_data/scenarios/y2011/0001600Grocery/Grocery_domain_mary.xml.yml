@@ -1,0 +1,143 @@
+__python_class__: negmas.preferences.discounted.ExpDiscountedUFun
+discount: 0.805562132
+dynamic_reservation: true
+factor: step
+id: /Users/yasser/code/old/scenarios/scenarios/original/anac/y2011/Grocery/Grocery_domain_mary.xml-2d35b7ce-aa71-4a53-af96-2280803d7377
+name: /Users/yasser/code/old/scenarios/scenarios/original/anac/y2011/Grocery/Grocery_domain_mary.xml
+outcome_space:
+  __python_class__: negmas.outcomes.outcome_space.DiscreteCartesianOutcomeSpace
+  issues:
+  - __python_class__: negmas.outcomes.categorical_issue.CategoricalIssue
+    n_values: 4
+    name: Bread type
+    values:
+    - Baguette
+    - Crackers
+    - Croissants
+    - Plain bread
+  - __python_class__: negmas.outcomes.categorical_issue.CategoricalIssue
+    n_values: 5
+    name: Fruit
+    values:
+    - Apples
+    - Bananas
+    - Cherries
+    - Grapes
+    - Pears
+  - __python_class__: negmas.outcomes.categorical_issue.CategoricalIssue
+    n_values: 4
+    name: Snacks
+    values:
+    - Chocolate bars
+    - Doughnuts
+    - Nachos
+    - Popcorn
+  - __python_class__: negmas.outcomes.categorical_issue.CategoricalIssue
+    n_values: 4
+    name: Spreads
+    values:
+    - Cheese
+    - Jam
+    - Peanut butter
+    - Sandwichspread
+  - __python_class__: negmas.outcomes.categorical_issue.CategoricalIssue
+    n_values: 5
+    name: Vegetables
+    values:
+    - Beans
+    - Broccoli
+    - Leek
+    - Potatoes
+    - Spinach
+  name: ''
+reserved_value: -.inf
+ufun:
+  __python_class__: negmas.preferences.crisp.linear.LinearAdditiveUtilityFunction
+  id: 96be5832-33f2-4630-8d19-8795ed0674d0
+  name: /Users/yasser/code/old/scenarios/scenarios/original/anac/y2011/Grocery/Grocery_domain_mary.xml
+  outcome_space:
+    __python_class__: negmas.outcomes.outcome_space.DiscreteCartesianOutcomeSpace
+    issues:
+    - __python_class__: negmas.outcomes.categorical_issue.CategoricalIssue
+      n_values: 4
+      name: Bread type
+      values:
+      - Baguette
+      - Crackers
+      - Croissants
+      - Plain bread
+    - __python_class__: negmas.outcomes.categorical_issue.CategoricalIssue
+      n_values: 5
+      name: Fruit
+      values:
+      - Apples
+      - Bananas
+      - Cherries
+      - Grapes
+      - Pears
+    - __python_class__: negmas.outcomes.categorical_issue.CategoricalIssue
+      n_values: 4
+      name: Snacks
+      values:
+      - Chocolate bars
+      - Doughnuts
+      - Nachos
+      - Popcorn
+    - __python_class__: negmas.outcomes.categorical_issue.CategoricalIssue
+      n_values: 4
+      name: Spreads
+      values:
+      - Cheese
+      - Jam
+      - Peanut butter
+      - Sandwichspread
+    - __python_class__: negmas.outcomes.categorical_issue.CategoricalIssue
+      n_values: 5
+      name: Vegetables
+      values:
+      - Beans
+      - Broccoli
+      - Leek
+      - Potatoes
+      - Spinach
+    name: ''
+  reserved_value: 0.0
+  values:
+  - __python_class__: negmas.preferences.value_fun.TableFun
+    d:
+      Baguette: 10.0
+      Crackers: 2.0
+      Croissants: 1.0
+      Plain bread: 5.0
+  - __python_class__: negmas.preferences.value_fun.TableFun
+    d:
+      Apples: 1.0
+      Bananas: 5.0
+      Cherries: 3.0
+      Grapes: 3.0
+      Pears: 10.0
+  - __python_class__: negmas.preferences.value_fun.TableFun
+    d:
+      Chocolate bars: 1.0
+      Doughnuts: 2.0
+      Nachos: 5.0
+      Popcorn: 10.0
+  - __python_class__: negmas.preferences.value_fun.TableFun
+    d:
+      Cheese: 1.0
+      Jam: 2.0
+      Peanut butter: 10.0
+      Sandwichspread: 5.0
+  - __python_class__: negmas.preferences.value_fun.TableFun
+    d:
+      Beans: 1.0
+      Broccoli: 2.0
+      Leek: 5.0
+      Potatoes: 3.0
+      Spinach: 10.0
+  weights:
+  - 0.3
+  - 0.2
+  - 0.05
+  - 0.15
+  - 0.3

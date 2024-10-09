@@ -1,0 +1,40 @@
+<utility_space type="any" number_of_issues="5">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="grandstand">
+    <item index="1" value="no grandstand" evaluation="0.06739629873277644" />
+    <item index="2" value="retractible grandstand" evaluation="0.6469290892896958" />
+    <item index="3" value="normal grandstand" evaluation="1.0332842829943087" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Floor">
+    <item index="1" value="Wood" evaluation="1.0332842829943087" />
+    <item index="2" value="Lineleum" evaluation="0.6469290892896958" />
+    <item index="3" value="Soft mats" evaluation="-0.12578129811953" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Sports bar">
+    <item index="1" value="No bar" evaluation="0.06739629873277644" />
+    <item index="2" value="Small bar" evaluation="0.6469290892896958" />
+    <item index="3" value="Big bar" evaluation="1.0332842829943087" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="Budget for aparatusses">
+    <item index="1" value="10,000" evaluation="0.6469290892896958" />
+    <item index="2" value="20,000" evaluation="0.26057389558508287" />
+    <item index="3" value="40,000" evaluation="-0.12578129811953" />
+</issue>
+<issue index="5" etype="discrete" type="discrete" vtype="discrete" name="Amount of dressing rooms">
+    <item index="1" value="2" evaluation="0.06739629873277644" />
+    <item index="2" value="4" evaluation="0.6469290892896958" />
+    <item index="3" value="6" evaluation="1.0332842829943087" />
+</issue>
+<weight index="1" value="0.2016079311641173">
+</weight>
+<weight index="2" value="0.26273314329728414">
+</weight>
+<weight index="3" value="0.2094722559956003">
+</weight>
+<weight index="4" value="0.08614943848731149">
+</weight>
+<weight index="5" value="0.24003723105568683">
+</weight>
+</objective>
+<reservation value="-0.12578129811953" />
+</utility_space>

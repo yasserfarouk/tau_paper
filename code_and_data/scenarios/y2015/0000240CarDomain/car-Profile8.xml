@@ -1,0 +1,37 @@
+<utility_space type="any" number_of_issues="4">
+<objective index="1" etype="objective" type="objective" description="" name="any">
+<issue index="1" etype="discrete" type="discrete" vtype="discrete" name="Brand">
+    <item index="1" value="Ford" evaluation="1.0" />
+    <item index="2" value="BMW" evaluation="0.06206319895943856" />
+    <item index="3" value="Toyota" evaluation="0.6873543996531464" />
+    <item index="4" value="Kia" evaluation="0.37470879930629236" />
+</issue>
+<issue index="2" etype="discrete" type="discrete" vtype="discrete" name="Car Type">
+    <item index="1" value="SUV" evaluation="1.0" />
+    <item index="2" value="Station Wagon" evaluation="0.6873543996531464" />
+    <item index="3" value="Sedan" evaluation="0.37470879930629236" />
+    <item index="4" value="Convertible" evaluation="0.06206319895943856" />
+</issue>
+<issue index="3" etype="discrete" type="discrete" vtype="discrete" name="Colour">
+    <item index="1" value="Blue" evaluation="1.0" />
+    <item index="2" value="Green" evaluation="0.6873543996531464" />
+    <item index="3" value="Red" evaluation="0.06206319895943856" />
+    <item index="4" value="Black" evaluation="0.37470879930629236" />
+    <item index="5" value="Gray" evaluation="0.37470879930629236" />
+</issue>
+<issue index="4" etype="discrete" type="discrete" vtype="discrete" name="Additional Features">
+    <item index="1" value="Basic" evaluation="-0.2505824013874152" />
+    <item index="2" value="Sports" evaluation="1.0" />
+    <item index="3" value="Luxury" evaluation="0.37470879930629236" />
+</issue>
+<weight index="1" value="0.2990620805280714">
+</weight>
+<weight index="2" value="0.30086296646400745">
+</weight>
+<weight index="3" value="0.20156520621927385">
+</weight>
+<weight index="4" value="0.1985097467886473">
+</weight>
+</objective>
+<reservation value="-0.24686200179265405" />
+</utility_space>
